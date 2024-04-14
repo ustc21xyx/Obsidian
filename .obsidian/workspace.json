@@ -11,26 +11,15 @@
             "id": "16b39bcc2de76525",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a3d161b160359381",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/Obsidain的使用/流程图的画法.md",
+                "file": "ReadItLater Inbox/视频的编解码格式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/Obsidain的使用/流程图的画法.md",
+                "file": "ReadItLater Inbox/视频的编解码格式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/Obsidain的使用/流程图的画法.md",
+                "file": "ReadItLater Inbox/视频的编解码格式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/Obsidain的使用/流程图的画法.md"
+                "file": "ReadItLater Inbox/视频的编解码格式.md"
               }
             }
           },
@@ -164,13 +153,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "a3d161b160359381",
+  "active": "16b39bcc2de76525",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "ReadItLater Inbox/assets/v2-ab28f28dad14e575f506b72fa54b7cc5_r.jpg",
+    "ReadItLater Inbox/视频的编解码格式.md",
+    "ReadItLater Inbox/assets/v2-51a58b8fe1e32f63b9e1197e8f05bf24_r.jpg",
     "杂/Obsidain的使用/流程图的画法.md",
+    "ReadItLater Inbox/assets/v2-bfeeefe21e63d537b79238804a7a33e6_r.jpg",
+    "ReadItLater Inbox/assets",
+    "ReadItLater Inbox/Note 2024-04-15 03-36-25.md",
+    "ReadItLater Inbox",
     "杂/Obsidain的使用",
     "算法/未命名.md",
     "实验笔记/数据库/第1次实验.md",
@@ -190,8 +187,6 @@
     "实验文档/形式化.md",
     "作业/形式化/第4次作业.md",
     "实验笔记",
-    "作业",
-    "作业/形式化",
     "作业",
     "形式化/CTL.md",
     "未命名.canvas"
