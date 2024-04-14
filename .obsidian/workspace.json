@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -168,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a3d161b160359381",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
