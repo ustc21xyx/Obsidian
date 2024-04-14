@@ -6,6 +6,8 @@
 
 ## 常用指令
 
+### 一、新建
+
 ```bash
 # 在当前目录新建一个Git代码库
 $ git init
@@ -17,6 +19,7 @@ $ git init [project-name]
 $ git clone [url]
 ```
 
+### 二、配置git
 ```bash
 # 显示当前的Git配置
 $ git config --list
@@ -269,4 +272,9 @@ $ git revert [commit]
 # 暂时将未提交的变化移除，稍后再移入
 $ git stash
 $ git stash pop
+```
+
+```bash
+# 生成一个可供发布的压缩包
+$ git archive
 ```
