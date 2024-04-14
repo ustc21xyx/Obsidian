@@ -29,21 +29,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "272db21278379128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "作业/形式化/第4次作业.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/形式化/第4次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/形式化/第4次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +168,7 @@
   },
   "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "作业",
     "形式化/LTL.md",
     "作业/形式化/第4次作业.md",
     "作业/形式化",
