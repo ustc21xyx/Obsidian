@@ -21,9 +21,11 @@
             "id": "a3d161b160359381",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+                "file": "杂/Obsidain的使用/流程图的画法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "杂/Obsidain的使用/流程图的画法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "杂/Obsidain的使用/流程图的画法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+                "file": "杂/Obsidain的使用/流程图的画法.md"
               }
             }
           },
@@ -167,6 +169,9 @@
   },
   "active": "a3d161b160359381",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "杂/Obsidain的使用/流程图的画法.md",
+    "杂/Obsidain的使用",
     "算法/未命名.md",
     "实验笔记/数据库/第1次实验.md",
     "杂/Git的使用.md",
@@ -189,8 +194,6 @@
     "作业/形式化",
     "作业",
     "形式化/CTL.md",
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
-    "论文",
     "未命名.canvas"
   ]
 }
