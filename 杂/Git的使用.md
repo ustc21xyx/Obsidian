@@ -125,7 +125,7 @@ $ git push origin --delete [branch-name]
 $ git branch -dr [remote/branch]
 ```
 
-### 六、b
+### 六、标签
 ```bash
 # 列出所有tag
 $ git tag
@@ -155,6 +155,7 @@ $ git push [remote] --tags
 $ git checkout -b [branch] [tag]
 ```
 
+### 七、查看信息
 ```bash
 # 显示有变更的文件
 $ git status
@@ -218,6 +219,7 @@ $ git show [commit]:[filename]
 $ git reflog
 ```
 
+### 远程同步
 ```bash
 # 下载远程仓库的所有变动
 $ git fetch [remote]
@@ -244,6 +246,7 @@ $ git push [remote] --force
 $ git push [remote] --all
 ```
 
+### 九、撤销
 ```bash
 # 恢复暂存区的指定文件到工作区
 $ git checkout [file]
