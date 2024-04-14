@@ -29,9 +29,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "272db21278379128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "作业/形式化/第4次作业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "作业/形式化/第4次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "作业/形式化/第4次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/LTL.md"
+                "file": "作业/形式化/第4次作业.md"
               }
             }
           },
@@ -170,9 +182,11 @@
   },
   "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "形式化/LTL.md",
+    "作业/形式化/第4次作业.md",
+    "作业/形式化",
     "作业",
     "形式化/CTL.md",
-    "形式化/LTL.md",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "论文",
     "算法/未命名.md",
