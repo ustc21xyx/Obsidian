@@ -281,6 +281,7 @@ $ git stash
 $ git stash pop
 ```
 
+### 十、其他
 ```bash
 # 生成一个可供发布的压缩包
 $ git archive
