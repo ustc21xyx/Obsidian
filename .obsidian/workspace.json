@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "算法/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "算法/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "算法/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/CTL.md"
+                "file": "算法/未命名.md"
               }
             }
           },
@@ -168,11 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "a3d161b160359381",
   "lastOpenFiles": [
+    "形式化/CTL.md",
+    "算法/未命名.md",
     "算法",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
-    "形式化/CTL.md",
     "形式化",
     "Excalidraw",
     "未命名.canvas"
