@@ -25,6 +25,7 @@
               "state": {
                 "file": "形式化/LTL.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -148,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
