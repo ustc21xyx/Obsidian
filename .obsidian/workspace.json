@@ -21,12 +21,9 @@
             "id": "a3d161b160359381",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "杂/LaTeX常用符号.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/LaTeX常用符号.md",
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/LaTeX常用符号.md",
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/LaTeX常用符号.md"
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
               }
             }
           },
@@ -170,13 +167,14 @@
   },
   "active": "a3d161b160359381",
   "lastOpenFiles": [
+    "算法/未命名.md",
+    "实验笔记/数据库/第1次实验.md",
     "杂/Git的使用.md",
     "杂/LaTeX常用符号.md",
+    "杂/Vim的使用.md",
     "Git的使用.pdf",
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
-    "杂/Vim的使用.md",
-    "实验笔记/数据库/第1次实验.md",
     "杂",
     "实验文档/未命名.md",
     "实验笔记/形式化/第2次实验.md",
@@ -193,7 +191,6 @@
     "形式化/CTL.md",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "论文",
-    "算法/未命名.md",
     "未命名.canvas"
   ]
 }
