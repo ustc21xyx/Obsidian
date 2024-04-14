@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "形式化/LTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "形式化/LTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/形式化/第4次作业.md"
+                "file": "形式化/LTL.md"
               }
             }
           },
@@ -166,11 +168,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "a3d161b160359381",
   "lastOpenFiles": [
+    "实验文档/形式化.md",
+    "作业/形式化/第4次作业.md",
+    "实验文档",
     "作业",
     "形式化/LTL.md",
-    "作业/形式化/第4次作业.md",
     "作业/形式化",
     "作业",
     "形式化/CTL.md",
