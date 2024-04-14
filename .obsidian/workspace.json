@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -169,8 +168,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "a3d161b160359381",
   "lastOpenFiles": [
+    "Git的使用.pdf",
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
     "杂/Vim的使用.md",
