@@ -19,7 +19,7 @@ $ git init [project-name]
 $ git clone [url]
 ```
 
-### 二、配置git
+### 二、配置Git
 ```bash
 # 显示当前的Git配置
 $ git config --list
@@ -32,6 +32,7 @@ $ git config [--global] user.name "[name]"
 $ git config [--global] user.email "[email address]"
 ```
 
+### 三、从暂存区中增加/删除文件
 ```bash
 # 添加指定文件到暂存区
 $ git add [file1] [file2] ...
@@ -56,6 +57,7 @@ $ git rm --cached [file]
 $ git mv [file-original] [file-renamed]
 ```
 
+#### 四、将代码提交到
 ```bash
 # 提交暂存区到仓库区
 $ git commit -m [message]
