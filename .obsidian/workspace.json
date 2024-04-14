@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "实验文档/形式化/第2次实验.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "实验文档/形式化/第2次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "实验文档/形式化/第2次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/LTL.md"
+                "file": "实验文档/形式化/第2次实验.md"
               }
             }
           },
@@ -168,13 +168,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a3d161b160359381",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "形式化/LTL.md",
+    "实验文档/形式化/第2次实验.md",
+    "实验文档/形式化/第二次",
+    "实验文档/数据库",
+    "实验文档/形式化",
     "实验文档/形式化.md",
     "作业/形式化/第4次作业.md",
     "实验文档",
     "作业",
-    "形式化/LTL.md",
     "作业/形式化",
     "作业",
     "形式化/CTL.md",
@@ -183,7 +187,6 @@
     "算法/未命名.md",
     "算法",
     "形式化",
-    "Excalidraw",
     "未命名.canvas"
   ]
 }
