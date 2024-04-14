@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "形式化/LTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "形式化/LTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+                "file": "形式化/LTL.md"
               }
             }
           },
@@ -170,12 +170,12 @@
   },
   "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "论文",
     "形式化/CTL.md",
     "形式化/LTL.md",
     "算法/未命名.md",
     "算法",
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "形式化",
     "Excalidraw",
     "未命名.canvas"
