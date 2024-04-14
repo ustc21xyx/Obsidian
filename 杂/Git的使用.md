@@ -57,7 +57,7 @@ $ git rm --cached [file]
 $ git mv [file-original] [file-renamed]
 ```
 
-#### 四、将代码提交到
+#### 四、将代码提交到本地仓库
 ```bash
 # 提交暂存区到仓库区
 $ git commit -m [message]
@@ -79,6 +79,7 @@ $ git commit --amend -m [message]
 $ git commit --amend [file1] [file2] ...
 ```
 
+### 五、分支
 ```bash
 # 列出所有本地分支
 $ git branch
@@ -124,6 +125,7 @@ $ git push origin --delete [branch-name]
 $ git branch -dr [remote/branch]
 ```
 
+### 六、b
 ```bash
 # 列出所有tag
 $ git tag
