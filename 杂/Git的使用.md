@@ -2,4 +2,4 @@
 >Worksapce：工作区
 >Index/Stage：暂存区
 >Repository：本地仓库
->Remot：远程仓库
+>Remote：远程仓库
