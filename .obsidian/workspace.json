@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a3d161b160359381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "形式化/CTL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "形式化/CTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "形式化/CTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+                "file": "形式化/CTL.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16b39bcc2de76525",
+  "active": "a3d161b160359381",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "形式化/CTL.md",
+    "形式化",
     "Excalidraw",
-    "未命名",
     "未命名.canvas"
   ]
 }
