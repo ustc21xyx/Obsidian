@@ -4,4 +4,9 @@
 >Repository：本地仓库
 >Remote：远程仓库
 
-## xin
+## 常用指令
+
+```
+#
+git init 
+```
