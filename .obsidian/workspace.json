@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验笔记/数据库/第1次实验.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验笔记/数据库/第1次实验.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验笔记/数据库/第1次实验.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验笔记/数据库/第1次实验.md"
+                "file": "实验笔记/AI/第一次实验.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "16b39bcc2de76525",
   "lastOpenFiles": [
+    "实验笔记/数据库/第1次实验.md",
+    "实验笔记/AI/第一次实验.md",
+    "实验笔记/AI",
     "杂/LaTeX常用符号.md",
     "杂/Vim的使用.md",
     "杂/重要数据.md",
@@ -176,7 +179,6 @@
     "ReadItLater Inbox",
     "杂/Obsidain的使用",
     "算法/未命名.md",
-    "实验笔记/数据库/第1次实验.md",
     "杂/Git的使用.md",
     "Git的使用.pdf",
     "Pasted image 20240415001100.png",
@@ -187,7 +189,6 @@
     "形式化/LTL.md",
     "实验文档/形式化/第二次",
     "实验笔记/数据库",
-    "实验笔记/形式化",
     "实验文档/形式化.md",
     "作业/形式化/第4次作业.md",
     "形式化/CTL.md",
