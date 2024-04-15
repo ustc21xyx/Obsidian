@@ -3,10 +3,10 @@ VAR
 pr1: process prc(pr2.st);
 pr2: process prc(pr1.st);
 --safety
-CTLSPEC AG!((pr1.st = c) & (pr2.st = c))
+LTLSPEC G!((pr1.st = c) & (pr2.st = c))
 -- liveness
-CTLSPEC AG((pr1.st = t) -> AF (pr1.st = c))
-CTLSPEC AG((pr2.st = t) -> AF (pr2.st = c))
+LTLSPEC G((pr1.st = t) -> F (pr1.st = c))
+LTLSPEC G((pr2.st = t) -> F (pr2.st = c))
 -- non-blocking
 CTLSPEC AG( (pr1.st = n) -> (EX pr1.st = t) )
 CTLSPEC AG( (pr2.st = n) -> (EX pr2.st = t) )
