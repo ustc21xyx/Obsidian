@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Blue Topaz",
   "textFontFamily": "LXGW WenKai",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Monaco"
 }
