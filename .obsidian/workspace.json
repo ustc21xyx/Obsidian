@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "书/并行计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "书/并行计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "书/并行计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md"
+                "file": "书/并行计算.md"
               }
             }
           },
@@ -154,18 +153,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "16b39bcc2de76525",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "ReadItLater Inbox/人工智能基础.md",
+    "书/并行计算.md",
+    "实验笔记/形式化/第2次实验.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
     "书/[并行计算——结构·算法·编程].陈国良.文字版.pdf",
-    "并行计算.md",
-    "实验笔记/形式化/第2次实验.md",
     "ReadItLater Inbox/Note 2024-04-16 21-10-22.md",
     "书",
     "实验笔记/形式化/PB21081577_徐云翔.pdf",
