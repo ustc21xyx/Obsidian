@@ -4,7 +4,8 @@
 >Repository：本地仓库
 >Remote：远程仓库
 
-^829952
+
+
 
 ## 常用指令
 
@@ -21,7 +22,6 @@ $ git init [project-name]
 $ git clone [url]
 ```
 
-^b9ce77
 
 ### 二、配置Git
 ```bash
