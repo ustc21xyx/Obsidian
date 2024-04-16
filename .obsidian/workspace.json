@@ -11,26 +11,15 @@
             "id": "16b39bcc2de76525",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书/[并行计算——结构·算法·编程].陈国良.文字版.pdf"
-              }
-            }
-          },
-          {
-            "id": "eaf42239ec6a4257",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "并行计算.md",
+                "file": "实验笔记/形式化/第2次实验.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "并行计算.md",
+                "file": "实验笔记/形式化/第2次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "并行计算.md",
+                "file": "实验笔记/形式化/第2次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "并行计算.md"
+                "file": "实验笔记/形式化/第2次实验.md"
               }
             }
           },
@@ -169,8 +159,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eaf42239ec6a4257",
+  "active": "16b39bcc2de76525",
   "lastOpenFiles": [
+    "形式化/LTL.md",
+    "形式化/CTL.md",
     "书/[并行计算——结构·算法·编程].陈国良.文字版.pdf",
     "并行计算.md",
     "实验笔记/形式化/第2次实验.md",
@@ -202,10 +194,8 @@
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
     "实验文档/未命名.md",
-    "形式化/LTL.md",
     "实验文档/形式化.md",
     "作业/形式化/第4次作业.md",
-    "形式化/CTL.md",
     "未命名.canvas"
   ]
 }
