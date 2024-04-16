@@ -6,9 +6,27 @@
       {
         "id": "ebefb011c065b904",
         "type": "tabs",
+        "dimension": 76.28939828080229,
         "children": [
           {
             "id": "16b39bcc2de76525",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3e19a14653cfc8f3",
+        "type": "tabs",
+        "dimension": 23.710601719197708,
+        "children": [
+          {
+            "id": "d0724fae12c5d1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书/并行计算.md",
+                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书/并行计算.md",
+                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书/并行计算.md"
+                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf"
               }
             }
           },
@@ -137,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,14 +176,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "16b39bcc2de76525",
   "lastOpenFiles": [
-    "ReadItLater Inbox/人工智能基础.md",
     "书/并行计算.md",
+    "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
+    "算法/未命名.md",
+    "并行计算.md",
+    "ReadItLater Inbox/人工智能基础.md",
     "实验笔记/形式化/第2次实验.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
-    "书/[并行计算——结构·算法·编程].陈国良.文字版.pdf",
     "ReadItLater Inbox/Note 2024-04-16 21-10-22.md",
     "书",
     "实验笔记/形式化/PB21081577_徐云翔.pdf",
@@ -187,7 +209,6 @@
     "杂/Obsidain的使用/流程图的画法.md",
     "ReadItLater Inbox/assets/v2-bfeeefe21e63d537b79238804a7a33e6_r.jpg",
     "ReadItLater Inbox/Note 2024-04-15 03-36-25.md",
-    "算法/未命名.md",
     "杂/Git的使用.md",
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
