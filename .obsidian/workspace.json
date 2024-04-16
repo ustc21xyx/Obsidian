@@ -11,12 +11,8 @@
             "id": "f9fc4388c47519af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "杂/Obsidain的使用/内嵌.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,16 +149,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "865d738e80d46449",
+  "active": "f9fc4388c47519af",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "杂/Obsidain的使用/流程图的画法.md",
     "杂/Obsidain的使用/内嵌.md",
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
     "1.md",
     "杂/Git的使用.md",
     "实验笔记/形式化/第2次实验.md",
-    "杂/Obsidain的使用/流程图的画法.md",
     "杂/LaTeX常用符号.md",
     "杂/Vim的使用.md",
     "书/并行计算.md",
