@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "ebefb011c065b904",
-        "type": "tabs",
-        "dimension": 76.28939828080229,
-        "children": [
-          {
-            "id": "16b39bcc2de76525",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3e19a14653cfc8f3",
         "type": "tabs",
-        "dimension": 23.710601719197708,
         "children": [
           {
             "id": "d0724fae12c5d1a2",
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
+                "file": "书/并行计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
+                "file": "书/并行计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书/并行计算——结构·算法·编程.陈国良.文字版.pdf"
+                "file": "书/并行计算.md"
               }
             }
           },
@@ -176,14 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16b39bcc2de76525",
+  "active": "d0724fae12c5d1a2",
   "lastOpenFiles": [
+    "实验笔记/形式化/第2次实验.md",
     "书/并行计算.md",
     "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
     "算法/未命名.md",
     "并行计算.md",
     "ReadItLater Inbox/人工智能基础.md",
-    "实验笔记/形式化/第2次实验.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
     "ReadItLater Inbox/Note 2024-04-16 21-10-22.md",

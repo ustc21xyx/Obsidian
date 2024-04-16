@@ -4,6 +4,8 @@
 >Repository：本地仓库
 >Remote：远程仓库
 
+^829952
+
 ## 常用指令
 
 ### 一、新建
@@ -18,6 +20,8 @@ $ git init [project-name]
 # 下载一个项目和它的整个代码历史
 $ git clone [url]
 ```
+
+^b9ce77
 
 ### 二、配置Git
 ```bash
