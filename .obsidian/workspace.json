@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
+                "file": "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
+                "file": "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
+                "file": "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/并行计算/第三次作业.md"
+                "file": "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md"
               }
             }
           },
@@ -154,13 +154,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "f9fc4388c47519af",
   "lastOpenFiles": [
-    "杂/并行计算.md",
+    "Omnivore/2024-04-19/[NLP] 秒懂词向量Word2vec的本质 - 知乎.md",
+    "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md",
     "作业/并行计算/第三次作业.md",
+    "Omnivore/2024-04-19/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-04-19/Organize your Omnivore library with labels.md",
+    "Omnivore/2024-04-19/Getting Started with Omnivore.md",
+    "Omnivore/2024-04-19",
+    "Omnivore",
+    "杂/并行计算.md",
     "作业/并行计算",
     "形式化/OBDD.md",
     "作业/ai/第五次作业.md",
@@ -188,18 +196,11 @@
     "实验笔记/AI/第一次实验.md",
     "实验笔记/形式化/PB21081577_徐云翔.zip",
     "实验笔记/形式化/归档.zip",
-    "实验笔记/形式化/first_attempt.smv",
-    "实验笔记/形式化/attempt1.smv",
-    "杂/重要数据.md",
-    "2024-04-14-视频的编解码格式-知乎.md",
-    "ReadItLater Inbox/视频的编解码格式.md",
     "ReadItLater Inbox/assets/v2-ab28f28dad14e575f506b72fa54b7cc5_r.jpg",
     "ReadItLater Inbox/assets/v2-51a58b8fe1e32f63b9e1197e8f05bf24_r.jpg",
     "ReadItLater Inbox/assets/v2-bfeeefe21e63d537b79238804a7a33e6_r.jpg",
-    "ReadItLater Inbox/Note 2024-04-15 03-36-25.md",
     "Pasted image 20240415001100.png",
     "Pasted image 20240415001007.png",
-    "实验文档/未命名.md",
     "未命名.canvas"
   ]
 }
