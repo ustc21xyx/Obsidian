@@ -11,6 +11,30 @@
       "title": "kanban",
       "injectColor": true,
       "noTitle": false
+    },
+    "blank": {
+      "type": "blank",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "meh-blank",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "blank",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col2": {
+      "type": "col2",
+      "color": "#7d7d7d",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-flip-horizontal-2"
+      },
+      "command": false,
+      "title": "col2",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
