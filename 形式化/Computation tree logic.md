@@ -1,4 +1,10 @@
+---
+cssclasses:
+  - img-grid
+---
+
 From Wikipedia, the free encyclopedia
+
 
 **Computation tree logic** (**CTL**) is a branching-time [logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"), meaning that its model of [time](https://en.wikipedia.org/wiki/Time "Time") is a [tree-like](https://en.wikipedia.org/wiki/Tree_(graph_theory) "Tree (graph theory)") structure in which the future is not determined; there are different paths in the future, any one of which might be an actual path that is realized. It is used in [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification") of software or hardware artifacts, typically by software applications known as [model checkers](https://en.wikipedia.org/wiki/Model_checker "Model checker"), which determine if a given artifact possesses [safety or liveness properties](https://en.wikipedia.org/wiki/Safety_and_Liveness_Properties "Safety and Liveness Properties"). For example, CTL can specify that when some initial condition is satisfied (e.g., all program variables are positive or no cars on a highway straddle two lanes), then all possible executions of a program avoid some undesirable condition (e.g., dividing a number by zero or two cars colliding on a highway). In this example, the safety property could be verified by a model checker that explores all possible transitions out of program states satisfying the initial condition and ensures that all such executions satisfy the property. Computation tree logic belongs to a class of [temporal logics](https://en.wikipedia.org/wiki/Temporal_logic "Temporal logic") that includes [linear temporal logic](https://en.wikipedia.org/wiki/Linear_temporal_logic "Linear temporal logic") (LTL). Although there are properties expressible only in CTL and properties expressible only in LTL, all properties expressible in either logic can also be expressed in [CTL\*](https://en.wikipedia.org/wiki/CTL* "CTL*").
 
