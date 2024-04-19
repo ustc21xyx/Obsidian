@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/CTL.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/CTL.md"
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
               }
             }
           },
@@ -155,27 +155,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "mermaid-tools:Open Mermaid Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "d5ae2c3548889e16",
   "lastOpenFiles": [
-    "形式化/Computation tree logic.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
-    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "杂/Linux vim.md",
-    "形式化/CTL.md",
-    "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
+    "形式化/Computation tree logic.md",
     "形式化/BDD.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "形式化/CTL.md",
+    "形式化/LTL.md",
+    "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
+    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+    "杂/Linux vim.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
@@ -192,8 +194,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
