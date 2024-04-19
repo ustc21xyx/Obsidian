@@ -24,8 +24,7 @@ The following is not a well-formed CTL formula:
 
 ![{\displaystyle {\mbox{EF }}{\big (}r{\mbox{ U }}q{\big )}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/60410d0de68554a35819ca1cf29626d8d46498da)
 
-The problem with this string is that ![{\displaystyle \mathrm {U} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/b2ad0ddf5dc86cfc99e6ffdb37f3f0329f0982b0) can occur only when paired with an ![{\displaystyle \mathrm {A} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/ff6366939c4ebbd4e8494d0dedc54c4b8dd7135a) or an ![{\displaystyle \mathrm {E} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/be1811407dea8b43727d28dbe8da7251985b03e8).
-
+The problem with this string is that ![{\displaystyle \mathrm {U} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/b2ad0ddf5dc86cfc99e6ffdb37f3f0329f0982b0) can occur only when paired with an ![{\displaystyle \mathrm {A} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/ff6366939c4ebbd4e8494d0dedc54c4b8dd7135a) or an ![{\displaystyle \mathrm {E} }](https://wikimedia.org/api/rest_v1/media/math/render/svg/be1811407dea8b43727d28dbe8da7251985b03e8)
 CTL uses [atomic propositions](https://en.wikipedia.org/wiki/First-order_logic#Vocabulary "First-order logic") as its building blocks to make statements about the states of a system. These propositions are then combined into formulas using [logical operators](https://en.wikipedia.org/wiki/Logical_operator "Logical operator") and [temporal operators](https://en.wikipedia.org/wiki/Temporal_logic "Temporal logic").
 
 ## Operators\[[edit](https://en.wikipedia.org/w/index.php?title=Computation_tree_logic&action=edit&section=3 "Edit section: Operators")\]
