@@ -2,5 +2,8 @@
   "floating-toc-styles@@enable-outline-style": "default-outline-style",
   "floating-toc-styles@@floating-toc-background-color@@light": "#FFFFFF4D",
   "floating-toc-styles@@floating-toc-line-color@@light": "#FFFFFF",
-  "floating-toc-styles@@floating-toc-response-time": 0.2
+  "floating-toc-styles@@floating-toc-response-time": 0.2,
+  "blue-topaz-theme@@naked-embed": true,
+  "blue-topaz-theme@@adjustable-embed-content-height": false,
+  "blue-topaz-theme@@embed-content-height": 600
 }

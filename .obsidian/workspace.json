@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "形式化/Computation tree logic.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -169,16 +169,16 @@
   "active": "d5ae2c3548889e16",
   "lastOpenFiles": [
     "形式化/BDD.md",
-    "杂/Obsidain的使用/内嵌.md",
     "杂/Obsidain的使用/Obsidian-Excalidraw 功能手册.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "形式化/Computation tree logic.md",
-    "杂/并行计算.md",
+    "杂/Obsidain的使用/内嵌.md",
     "杂/Obsidain的使用/流程图的画法.md",
+    "形式化/Computation tree logic.md",
+    "杂/Git的使用.md",
+    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+    "杂/并行计算.md",
     "杂/Linux vim.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
-    "杂/Git的使用.md",
     "Excalidraw/Drawing 2024-04-19 23.25.46.excalidraw.md",
     "杂/Vim的使用.md",
     "杂/LaTeX常用符号.md",
