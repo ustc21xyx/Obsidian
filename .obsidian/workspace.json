@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/Computation tree logic.md",
+                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/Computation tree logic.md",
+                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/Computation tree logic.md",
+                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/Computation tree logic.md"
+                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md"
               }
             }
           },
@@ -168,50 +168,52 @@
   },
   "active": "d5ae2c3548889e16",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/从这开始.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "杂/TIPS for Blue Topaz/Example/各类列表和彩虹大纲线.md",
+    "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
     "形式化/BDD.md",
-    "杂/Obsidain的使用/Obsidian-Excalidraw 功能手册.md",
-    "杂/Obsidain的使用/内嵌.md",
-    "杂/Obsidain的使用/流程图的画法.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "形式化/Computation tree logic.md",
-    "杂/Git的使用.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "杂/并行计算.md",
-    "杂/Linux vim.md",
-    "形式化/LTL.md",
-    "形式化/CTL.md",
-    "Excalidraw/Drawing 2024-04-19 23.25.46.excalidraw.md",
-    "杂/Vim的使用.md",
-    "杂/LaTeX常用符号.md",
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
-    "Clipper/Flowcharts Syntax  Mermaid.md",
-    "Clipper/视频的编解码格式.md",
-    "Clipper/Obsidian 网页剪裁解决方案 - 少数派.md",
-    "Omnivore/2024-04-19/出了一点问题.md",
-    "Omnivore/2024-04-19/Home - Omnivore.md",
-    "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "杂/TIPS for Blue Topaz/Example/Reading/霸王别姬.md",
+    "杂/TIPS for Blue Topaz/Example/Reading/雄狮少年.md",
+    "杂/TIPS for Blue Topaz/Example/Reading/花束般的恋爱 花束みたいな恋をした.md",
+    "杂/TIPS for Blue Topaz/Example/◾ TableExample",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
+    "杂/TIPS for Blue Topaz/Example/Reading",
+    "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
+    "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
+    "杂/TIPS for Blue Topaz/Example",
+    "杂/TIPS for Blue Topaz/Attachemnt",
+    "杂/TIPS for Blue Topaz",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-ab28f28dad14e575f506b72fa54b7cc5_b.jpg",
-    "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-51a58b8fe1e32f63b9e1197e8f05bf24_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung",
     "(20220223)视频的编解码格式_Alex Chung",
-    "Omnivore/2024-04-19/计算树逻辑 - 维基百科 --- Computation tree logic - Wikipedia.md",
     "Clipper",
-    "Obsidian 网页剪裁解决方案 - 少数派.md",
-    "Omnivore/2024-04-19/[NLP] 秒懂词向量Word2vec的本质 - 知乎.md",
-    "作业/并行计算/第三次作业.md",
-    "Omnivore/2024-04-19/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-04-19",
-    "Omnivore",
-    "作业/并行计算",
-    "PB21081577_徐云翔.pdf",
-    "作业/ai",
-    "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
-    "书",
-    "ReadItLater Inbox/assets/v2-ab28f28dad14e575f506b72fa54b7cc5_r.jpg",
-    "ReadItLater Inbox/assets/v2-51a58b8fe1e32f63b9e1197e8f05bf24_r.jpg",
-    "ReadItLater Inbox/assets/v2-bfeeefe21e63d537b79238804a7a33e6_r.jpg",
-    "Pasted image 20240415001100.png",
-    "Pasted image 20240415001007.png",
     "未命名.canvas"
   ]
 }
