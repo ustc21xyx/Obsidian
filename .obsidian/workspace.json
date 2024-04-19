@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
+                "file": "形式化/OBDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
+                "file": "形式化/OBDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md",
+                "file": "形式化/OBDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/Obsidain的使用/内嵌.md"
+                "file": "形式化/OBDD.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,11 +168,12 @@
   },
   "active": "f9fc4388c47519af",
   "lastOpenFiles": [
+    "形式化/LTL.md",
+    "形式化/CTL.md",
+    "杂/Obsidain的使用/内嵌.md",
     "杂/Obsidain的使用/Obsidian-Excalidraw 功能手册.md",
     "杂/Git的使用.md",
-    "杂/Obsidain的使用/内嵌.md",
     "Excalidraw/Drawing 2024-04-19 23.25.46.excalidraw.md",
-    "形式化/CTL.md",
     "杂/并行计算.md",
     "杂/Linux vim.md",
     "杂/Obsidain的使用/流程图的画法.md",
@@ -199,7 +200,6 @@
     "作业/并行计算/第三次作业.md",
     "Omnivore/2024-04-19/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-04-19/Organize your Omnivore library with labels.md",
-    "Omnivore/2024-04-19/Getting Started with Omnivore.md",
     "Omnivore/2024-04-19",
     "Omnivore",
     "作业/并行计算",
