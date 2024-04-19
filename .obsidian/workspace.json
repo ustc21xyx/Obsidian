@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cee45b94f3e1fe39",
+        "id": "5b52361cf050b1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ae2c3548889e16",
+            "id": "10dad6d9e13b9fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md"
+                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
               }
             }
           },
@@ -166,19 +166,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d5ae2c3548889e16",
+  "active": "10dad6d9e13b9fff",
   "lastOpenFiles": [
-    "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "形式化/BDD.md",
+    "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+    "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
+    "杂/TIPS for Blue Topaz/Example/真Kanban.md",
     "杂/TIPS for Blue Topaz/Example/分栏效果示例.md",
+    "杂/TIPS for Blue Topaz/从这开始.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "杂/Git的使用.md",
     "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "形式化/Computation tree logic.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "Clipper/Manacher - OI Wiki.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
-    "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "形式化/CTL.md",
     "形式化/LTL.md",
@@ -192,9 +195,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
-    "杂/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "杂/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
-    "杂/TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
