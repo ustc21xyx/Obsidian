@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b52361cf050b1d5",
+        "id": "2522c92e7b6f5495",
         "type": "tabs",
         "children": [
           {
-            "id": "10dad6d9e13b9fff",
+            "id": "017ee758d799d2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#weeklynote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +164,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10dad6d9e13b9fff",
+  "active": "017ee758d799d2d6",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "形式化/BDD.md",
+    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
+    "BDD.pdf",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "杂/TIPS for Blue Topaz/Example/Callout环绕布局、缩进效果示例.md",
@@ -183,18 +186,14 @@
     "杂/TIPS for Blue Topaz/Example/任务卡片-dataview 任务查询举例.md",
     "杂/TIPS for Blue Topaz/Example/分栏效果示例.md",
     "杂/TIPS for Blue Topaz/Example/各级标题示例.md",
-    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "杂/Linux vim.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "杂/Git的使用.md",
     "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "形式化/Computation tree logic.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "Clipper/Manacher - OI Wiki.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
@@ -212,7 +211,6 @@
     "杂/TIPS for Blue Topaz",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-ab28f28dad14e575f506b72fa54b7cc5_b.jpg",
-    "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung",
     "未命名.canvas"
   ]
 }
