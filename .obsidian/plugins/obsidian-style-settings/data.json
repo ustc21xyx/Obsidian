@@ -5,5 +5,11 @@
   "floating-toc-styles@@floating-toc-response-time": 0.2,
   "blue-topaz-theme@@naked-embed": true,
   "blue-topaz-theme@@adjustable-embed-content-height": false,
-  "blue-topaz-theme@@embed-content-height": 600
+  "blue-topaz-theme@@embed-content-height": 600,
+  "blue-topaz-theme@@remove-external-link-icon": true,
+  "blue-topaz-theme@@link-underline-external": true,
+  "blue-topaz-theme@@embed-hover": false,
+  "blue-topaz-theme@@embed-hd": false,
+  "blue-topaz-theme@@hide-embed-title": false,
+  "blue-topaz-theme@@hide-embed-banner": false
 }
