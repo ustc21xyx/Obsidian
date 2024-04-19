@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-                "mode": "preview",
+                "file": "形式化/CTL.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+                "file": "形式化/CTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+                "file": "形式化/CTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md"
+                "file": "形式化/CTL.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "d5ae2c3548889e16",
   "lastOpenFiles": [
-    "杂/TIPS for Blue Topaz/从这开始.md",
     "形式化/Computation tree logic.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+    "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "杂/Linux vim.md",
+    "形式化/CTL.md",
     "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
     "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
@@ -192,8 +194,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "杂/TIPS for Blue Topaz/Example/Reading/霸王别姬.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
