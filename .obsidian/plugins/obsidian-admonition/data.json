@@ -76,13 +76,14 @@
       "type": "def",
       "color": "#7d7d7d",
       "icon": {
-        "name": "deaf",
-        "type": "font-awesome"
+        "type": "obsidian",
+        "name": "lucide-leaf"
       },
       "command": false,
       "title": "def",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "thm": {
       "type": "thm",
