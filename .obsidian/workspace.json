@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
+                "file": "形式化/BDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
+                "file": "形式化/BDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
+                "file": "形式化/BDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md"
+                "file": "形式化/BDD.md"
               }
             }
           },
@@ -168,6 +168,14 @@
   "active": "10dad6d9e13b9fff",
   "lastOpenFiles": [
     "杂/TIPS for Blue Topaz/从这开始.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "杂/TIPS for Blue Topaz/Example/Callout环绕布局、缩进效果示例.md",
+    "Callout环绕布局、缩进效果示例.pdf",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "杂/TIPS for Blue Topaz/Example/涂黑和挖空效果（三种语法）.md",
+    "涂黑和挖空效果（三种语法）.pdf",
+    "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
     "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Example/真Kanban.md",
     "杂/TIPS for Blue Topaz/Example/callout 便签效果.md",
@@ -177,11 +185,9 @@
     "杂/TIPS for Blue Topaz/Example/各级标题示例.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "杂/Linux vim.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "杂/Git的使用.md",
@@ -190,10 +196,6 @@
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "Clipper/Manacher - OI Wiki.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-    "形式化/CTL.md",
-    "形式化/LTL.md",
-    "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
@@ -211,8 +213,6 @@
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-ab28f28dad14e575f506b72fa54b7cc5_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung",
-    "(20220223)视频的编解码格式_Alex Chung",
-    "Clipper",
     "未命名.canvas"
   ]
 }
