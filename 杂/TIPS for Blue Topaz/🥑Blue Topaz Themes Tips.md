@@ -227,7 +227,7 @@ text
 
 在图片后加上`|数字`可以控制图片大小
 
-![[obsidian_image.png|120]]
+![[obsidian_image.png|170]]
 
 在图片后加上`|R`或`|L`，可以控制图片居右还是居左，也可以跟上面的控制大小同时使用。
 ![[obsidian_image.png|R|150]]

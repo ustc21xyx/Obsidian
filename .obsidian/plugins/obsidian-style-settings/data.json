@@ -11,5 +11,8 @@
   "blue-topaz-theme@@embed-hover": false,
   "blue-topaz-theme@@embed-hd": false,
   "blue-topaz-theme@@hide-embed-title": false,
-  "blue-topaz-theme@@hide-embed-banner": false
+  "blue-topaz-theme@@hide-embed-banner": false,
+  "blue-topaz-theme@@tag-style-option": "rainbow-tag",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style"
 }
