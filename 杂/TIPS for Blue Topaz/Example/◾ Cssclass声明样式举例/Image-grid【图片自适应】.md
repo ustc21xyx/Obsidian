@@ -1,7 +1,8 @@
 ---
-cssclass: "img-grid"
-usage: "图片自适应分布"
----
+cssclass: img-grid
+--- 
+
+
 
 >  这是一个图片自适应示例，需要在yaml区域声明cssclass
 

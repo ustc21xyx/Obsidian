@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - img-grid
----
+cssclass: img-grid
+--- 
 
 From Wikipedia, the free encyclopedia
 
