@@ -1,0 +1,31 @@
+The supremum you are looking for is −ln⁡(3/4)ln⁡(4). I leave my proof below, although as user479223 mentions, this is the same as showing Hölder continuity of the Weierstrass function, which is well known (see [this MSE answer](https://math.stackexchange.com/a/136500/807670)).
+
+Note that for all x,y∈R, |g(x)−g(y)|≤min(|x−y|,1). Thus, for all x,h∈R,
+
+|f(x+h)−f(x)|\=∑n3ng(4n(x+h))4n−3ng(4nx)4n≤∑n3n4nmin(|4nh|,1)\=
+
+\=∑nmin(|3nh|,(34)n).
+
+Note that when h is close to 0, the sequence min(|3nh|,(34)n) first increases exponentially and then decreases exponentially as follows:
+
+h,3h,9h,27h,…,3k1h,(34)k2,(34)k2+1,(34)k2+2,…
+
+where both 3k1h and (34)k2 are, within a factor of ten, equal to h−ln⁡(3/4)ln⁡(4). Thus,
+
+|f(x+h)−f(x)|≤∑nmin(|3nh|,(34)n)≤100h−ln⁡(3/4)ln⁡(4).
+
+This means that any constant α<−ln⁡(3/4)ln⁡(4) should make the limit of the question be 0 for all x. However, if α\=−ln⁡(3/4)ln⁡(4) and my computations below are correct, then the limit limh→0f(h)hα need not exist. E.g. taking hm\=1/4m; then we have
+
+f(hm)\=∑n\=1m3n4ng(4n−m)\=∑n\=1m3n4n4n−m\=∑n\=1m3n4m.
+
+Thus,
+
+limmf(hm)hmα\=limm(3m⋅324m)(3/4)m\=32.
+
+However,
+
+f(2hm)\=∑n\=1m−13n4ng(2⋅4n−m)\=2∑n\=1m−13n4m.
+
+Thus,
+
+limmf(2hm)(2hm)α\=limm(3m−1⋅324m)2α(3/4)m\=12⋅2α\=34.

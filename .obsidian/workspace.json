@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-                "mode": "source",
+                "file": "杂/Dedekind分劃(cut) · mathematical_analysis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "杂/Dedekind分劃(cut) · mathematical_analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "杂/Dedekind分劃(cut) · mathematical_analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
+                "file": "杂/Dedekind分劃(cut) · mathematical_analysis.md"
               }
             }
           },
@@ -168,15 +168,18 @@
   },
   "active": "d5ae2c3548889e16",
   "lastOpenFiles": [
+    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+    "杂/Dedekind分劃(cut) · mathematical_analysis.md",
+    "Clipper/Manacher - OI Wiki.md",
+    "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
+    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "形式化/Computation tree logic.md",
     "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "形式化/CTL.md",
     "形式化/LTL.md",
     "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/Linux vim.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
@@ -192,8 +195,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
-    "杂/TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
@@ -213,7 +214,6 @@
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung",
     "(20220223)视频的编解码格式_Alex Chung",
     "Clipper",
-    "Omnivore/2024-04-19",
     "未命名.canvas"
   ]
 }
