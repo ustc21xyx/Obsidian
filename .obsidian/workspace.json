@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipper/Obsidian-Excalidraw 功能手册.md",
+                "file": "杂/并行计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clipper/Obsidian-Excalidraw 功能手册.md",
+                "file": "杂/并行计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clipper/Obsidian-Excalidraw 功能手册.md",
+                "file": "杂/并行计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clipper/Obsidian-Excalidraw 功能手册.md"
+                "file": "杂/并行计算.md"
               }
             }
           },
@@ -168,12 +168,14 @@
   },
   "active": "f9fc4388c47519af",
   "lastOpenFiles": [
-    "杂/Vim的使用.md",
-    "杂/LaTeX常用符号.md",
-    "杂/Git的使用.md",
-    "Clipper/Obsidian-Excalidraw 功能手册.md",
+    "杂/Linux vim.md",
+    "杂/Obsidain的使用/Obsidian-Excalidraw 功能手册.md",
     "杂/Obsidain的使用/流程图的画法.md",
     "杂/Obsidain的使用/内嵌.md",
+    "杂/Git的使用.md",
+    "杂/并行计算.md",
+    "杂/Vim的使用.md",
+    "杂/LaTeX常用符号.md",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "形式化/Computation tree logic.md",
@@ -198,13 +200,11 @@
     "Omnivore/2024-04-19/Getting Started with Omnivore.md",
     "Omnivore/2024-04-19",
     "Omnivore",
-    "杂/并行计算.md",
     "作业/并行计算",
     "形式化/OBDD.md",
     "作业/ai/第五次作业.md",
     "PB21081577_徐云翔.pdf",
     "作业/ai",
-    "形式化/LTL.md",
     "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
     "书",
     "ReadItLater Inbox/assets/v2-ab28f28dad14e575f506b72fa54b7cc5_r.jpg",

@@ -1,4 +1,6 @@
 {
   "floating-toc-styles@@enable-outline-style": "default-outline-style",
-  "floating-toc-styles@@floating-toc-background-color@@light": "#FFFFFF4D"
+  "floating-toc-styles@@floating-toc-background-color@@light": "#FFFFFF4D",
+  "floating-toc-styles@@floating-toc-line-color@@light": "#FFFFFF",
+  "floating-toc-styles@@floating-toc-response-time": 0.2
 }
