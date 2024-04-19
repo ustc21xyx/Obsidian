@@ -35,6 +35,114 @@
       "title": "col2",
       "injectColor": true,
       "noTitle": false
+    },
+    "col3": {
+      "type": "col3",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "tachometer-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "col3",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col4": {
+      "type": "col4",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "tachometer-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "col4",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "flex": {
+      "type": "flex",
+      "color": "#7d7d7d",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-file-x"
+      },
+      "command": false,
+      "title": "flex",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "def": {
+      "type": "def",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "deaf",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "def",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "thm": {
+      "type": "thm",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "thm",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "lem": {
+      "type": "lem",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "lem",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "cor": {
+      "type": "cor",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "cor",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "pro": {
+      "type": "pro",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "pro",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "hibox": {
+      "type": "hibox",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "hibox",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
