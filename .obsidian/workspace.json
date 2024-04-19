@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipper/Computation tree logic.md",
+                "file": "形式化/Computation tree logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clipper/Computation tree logic.md",
+                "file": "形式化/Computation tree logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clipper/Computation tree logic.md",
+                "file": "形式化/Computation tree logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clipper/Computation tree logic.md"
+                "file": "形式化/Computation tree logic.md"
               }
             }
           },
@@ -154,18 +154,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-omnivore:Omnivore": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "f9fc4388c47519af",
   "lastOpenFiles": [
+    "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+    "形式化/Computation tree logic.md",
+    "Clipper/视频的编解码格式.md",
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "Clipper/Obsidian 网页剪裁解决方案 - 少数派.md",
     "Omnivore/2024-04-19/出了一点问题.md",
     "Omnivore/2024-04-19/Home - Omnivore.md",
-    "Clipper/Obsidian 网页剪裁解决方案 - 少数派.md",
-    "Clipper/Computation tree logic.md",
-    "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "Clipper/视频的编解码格式.md",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung.md",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-ab28f28dad14e575f506b72fa54b7cc5_b.jpg",
@@ -187,7 +187,6 @@
     "形式化/OBDD.md",
     "作业/ai/第五次作业.md",
     "PB21081577_徐云翔.pdf",
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "作业/ai",
     "杂/Obsidain的使用/流程图的画法.md",
     "杂/Obsidain的使用/内嵌.md",

@@ -3,5 +3,6 @@
   "cssTheme": "Things",
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 18,
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "translucency": false
 }
