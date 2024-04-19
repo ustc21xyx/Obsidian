@@ -9,5 +9,5 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "visible"
 }
