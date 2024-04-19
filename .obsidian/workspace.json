@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dvtest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,13 +162,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "10dad6d9e13b9fff",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "形式化/BDD.md",
@@ -190,8 +192,6 @@
     "形式化/CTL.md",
     "形式化/LTL.md",
     "杂/TIPS for Blue Topaz/Example/图片横排布局以及添加标题.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "杂/TIPS for Blue Topaz/Example/各类列表和彩虹大纲线.md",
     "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",

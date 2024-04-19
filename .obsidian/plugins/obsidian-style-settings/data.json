@@ -14,5 +14,7 @@
   "blue-topaz-theme@@hide-embed-banner": false,
   "blue-topaz-theme@@tag-style-option": "rainbow-tag",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
-  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style"
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
+  "blue-topaz-theme@@full-width-dvtable": false,
+  "blue-topaz-theme@@dvtable-style-options": "wrapped-dvtable"
 }
