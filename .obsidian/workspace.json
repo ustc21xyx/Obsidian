@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "Clipper/Computation tree logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "Clipper/Computation tree logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "Clipper/Computation tree logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md"
+                "file": "Clipper/Computation tree logic.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "f9fc4388c47519af",
   "lastOpenFiles": [
-    "Clipper/视频的编解码格式.md",
     "Clipper/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+    "Clipper/Computation tree logic.md",
+    "Clipper/视频的编解码格式.md",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung.md",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-ab28f28dad14e575f506b72fa54b7cc5_b.jpg",
@@ -196,7 +197,6 @@
     "杂/LaTeX常用符号.md",
     "杂/Vim的使用.md",
     "书/并行计算.md",
-    "实验笔记/数据库/第1次实验.md",
     "书/并行计算——结构·算法·编程.陈国良.文字版.pdf",
     "书",
     "ReadItLater Inbox/assets/v2-ab28f28dad14e575f506b72fa54b7cc5_r.jpg",
