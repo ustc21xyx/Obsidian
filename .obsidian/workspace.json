@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/BDD.md"
+                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md"
               }
             }
           },
@@ -161,15 +161,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "017ee758d799d2d6",
   "lastOpenFiles": [
+    "形式化/BDD.md",
+    "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
-    "形式化/BDD.md",
     "BDD.pdf",
     "杂/并行计算.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
@@ -200,7 +200,6 @@
     "杂/TIPS for Blue Topaz/Example/callout 便签效果.md",
     "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
     "杂/TIPS for Blue Topaz/Example/任务卡片-dataview 任务查询举例.md",
-    "杂/TIPS for Blue Topaz/Example/分栏效果示例.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",

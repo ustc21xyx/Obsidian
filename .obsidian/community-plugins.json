@@ -1,17 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-image-auto-upload-plugin",
-  "mousewheel-image-zoom",
-  "quick-latex",
-  "obsidian-advanced-uri",
-  "mermaid-tools",
   "obsidian-style-settings",
-  "dataview",
-  "floating-toc",
-  "obsidian-admonition",
-  "obsidian-dynamic-highlights",
+  "quick-latex",
+  "ollama",
   "obsidian-kanban",
-  "obsidian-banners",
-  "ollama"
+  "mermaid-tools",
+  "obsidian-image-auto-upload-plugin"
 ]

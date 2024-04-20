@@ -1,8 +1,4 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz",
-  "textFontFamily": "Microsoft YaHei",
-  "baseFontSize": 18,
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "translucency": false
+  "cssTheme": "Blue Topaz"
 }
