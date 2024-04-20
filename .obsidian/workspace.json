@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "形式化/BDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "形式化/BDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/LTL.md",
+                "file": "形式化/BDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/LTL.md"
+                "file": "形式化/BDD.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "017ee758d799d2d6",
   "lastOpenFiles": [
+    "形式化/LTL.md",
     "形式化/CTL.md",
     "形式化/BDD.md",
     "BDD.pdf",
@@ -200,7 +201,6 @@
     "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
     "杂/TIPS for Blue Topaz/Example/任务卡片-dataview 任务查询举例.md",
     "杂/TIPS for Blue Topaz/Example/分栏效果示例.md",
-    "杂/TIPS for Blue Topaz/Example/各级标题示例.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
