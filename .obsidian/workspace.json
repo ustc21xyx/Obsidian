@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
-                "mode": "preview",
+                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
+                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
+                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/timeline callout效果.md"
+                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +167,8 @@
   },
   "active": "017ee758d799d2d6",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
+    "杂/TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
     "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Example/电影看板.md",
     "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
@@ -193,8 +196,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "杂/Linux vim.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
