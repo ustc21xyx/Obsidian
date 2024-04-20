@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+                "file": "形式化/BDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+                "file": "形式化/BDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+                "file": "形式化/BDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md"
+                "file": "形式化/BDD.md"
               }
             }
           },
@@ -167,18 +167,25 @@
   },
   "active": "017ee758d799d2d6",
   "lastOpenFiles": [
+    "BDD.pdf",
+    "形式化/BDD.md",
+    "杂/并行计算.md",
+    "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
+    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
+    "杂/TIPS for Blue Topaz/Example/全宽表格示例.md",
+    "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
     "杂/TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
-    "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Example/电影看板.md",
     "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "杂/TIPS for Blue Topaz/Example/单独定制笔记背景.md",
     "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
-    "形式化/BDD.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
-    "BDD.pdf",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "杂/TIPS for Blue Topaz/Example/Callout环绕布局、缩进效果示例.md",
@@ -193,21 +200,13 @@
     "杂/TIPS for Blue Topaz/Example/任务卡片-dataview 任务查询举例.md",
     "杂/TIPS for Blue Topaz/Example/分栏效果示例.md",
     "杂/TIPS for Blue Topaz/Example/各级标题示例.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "杂/TIPS for Blue Topaz/Example/Reading",
-    "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
-    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
-    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
-    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
-    "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
     "杂/TIPS for Blue Topaz/Example",
     "杂/TIPS for Blue Topaz/Attachemnt",
     "杂/TIPS for Blue Topaz",
