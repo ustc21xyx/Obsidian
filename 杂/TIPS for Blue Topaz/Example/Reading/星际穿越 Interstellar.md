@@ -18,6 +18,7 @@ viewtime:
 updated: 
 status: 
 grade: 
+banner_y: 0.5
 ---
 > [!bookinfo|noicon]+ 🎬《星际穿越 Interstellar》
 > ![bookcover|200](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg)

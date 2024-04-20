@@ -16,5 +16,8 @@
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
   "blue-topaz-theme@@full-width-dvtable": false,
-  "blue-topaz-theme@@dvtable-style-options": "default-dvtable"
+  "blue-topaz-theme@@dvtable-style-options": "default-dvtable",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false
 }
