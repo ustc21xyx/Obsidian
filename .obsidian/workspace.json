@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "形式化/LTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "形式化/LTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/BDD.md",
+                "file": "形式化/LTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/BDD.md"
+                "file": "形式化/LTL.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "017ee758d799d2d6",
   "lastOpenFiles": [
-    "BDD.pdf",
+    "形式化/CTL.md",
     "形式化/BDD.md",
+    "BDD.pdf",
     "杂/并行计算.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
