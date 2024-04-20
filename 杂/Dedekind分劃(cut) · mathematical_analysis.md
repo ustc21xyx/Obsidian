@@ -1,3 +1,5 @@
+#数学 
+
 -   [由有理數定義實數](https://chenhh.gitbooks.io/mathematical_analysis/content/math_analysis/dedekind_cut.html#%E7%94%B1%E6%9C%89%E7%90%86%E6%95%B8%E5%AE%9A%E7%BE%A9%E5%AF%A6%E6%95%B8)
 -   [Dedekind分劃(cut)](https://chenhh.gitbooks.io/mathematical_analysis/content/math_analysis/dedekind_cut.html#dedekind%E5%88%86%E5%8A%83cut)
 -   [分劃的次序關係](https://chenhh.gitbooks.io/mathematical_analysis/content/math_analysis/dedekind_cut.html#%E5%88%86%E5%8A%83%E7%9A%84%E6%AC%A1%E5%BA%8F%E9%97%9C%E4%BF%82)

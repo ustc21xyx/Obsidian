@@ -4,5 +4,13 @@
   "ollama",
   "obsidian-kanban",
   "mermaid-tools",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-git",
+  "floating-toc",
+  "obsidian-excalidraw-plugin",
+  "obsidian-dynamic-highlights",
+  "dataview",
+  "obsidian-banners",
+  "obsidian-advanced-uri",
+  "obsidian-admonition"
 ]

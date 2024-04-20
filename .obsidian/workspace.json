@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2522c92e7b6f5495",
+        "id": "0d41943c25865825",
         "type": "tabs",
         "children": [
           {
-            "id": "017ee758d799d2d6",
+            "id": "691f90f4e016b028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
+                "file": "杂/并行计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#weeklynote",
+                "query": "tag:#软件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
+                "file": "杂/并行计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
+                "file": "杂/并行计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md"
+                "file": "杂/并行计算.md"
               }
             }
           },
@@ -155,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,14 +166,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "017ee758d799d2d6",
+  "active": "865d738e80d46449",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "杂/一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
+    "杂/并行计算.md",
+    "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "形式化/BDD.md",
-    "杂/(71 封私信  80 条消息) 一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
     "BDD.pdf",
-    "杂/并行计算.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
@@ -185,7 +189,6 @@
     "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "杂/TIPS for Blue Topaz/Example/单独定制笔记背景.md",
     "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
-    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
@@ -199,7 +202,6 @@
     "杂/TIPS for Blue Topaz/Example/真Kanban.md",
     "杂/TIPS for Blue Topaz/Example/callout 便签效果.md",
     "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
-    "杂/TIPS for Blue Topaz/Example/任务卡片-dataview 任务查询举例.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
