@@ -1,5 +1,6 @@
 paiCounter
 N=1000000    |    pi=3.14     |    time=0.061s
+N=10000000  |    pi=3.140   |    time=0.6s
 
 MP
 N=10000      |    pi=3.1~3.3   |    time=0.0003s
