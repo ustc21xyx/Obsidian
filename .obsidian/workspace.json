@@ -11,11 +11,9 @@
             "id": "691f90f4e016b028",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
-                "mode": "source",
-                "source": false
+                "file": "PB21081577_徐云翔.pdf"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
+                "file": "PB21081577_徐云翔.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/并行计算/第三次作业.md",
+                "file": "PB21081577_徐云翔.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/并行计算/第三次作业.md"
+                "file": "PB21081577_徐云翔.pdf"
               }
             }
           },
@@ -166,10 +163,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "691f90f4e016b028",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
-    "time.md",
     "作业/并行计算/第三次作业.md",
+    "PB21081577_徐云翔.pdf",
+    "time.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "作业/并行计算/Figure_2.png",
     "time.txt",
@@ -212,7 +210,6 @@
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "杂/TIPS for Blue Topaz/Example",
-    "杂/TIPS for Blue Topaz/Attachemnt",
     "未命名.canvas"
   ]
 }
