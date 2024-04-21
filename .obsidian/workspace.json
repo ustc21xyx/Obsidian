@@ -11,9 +11,11 @@
             "id": "691f90f4e016b028",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/s100090050046.pdf"
+                "file": "论文/Word check.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/s100090050046.pdf",
+                "file": "论文/Word check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/s100090050046.pdf",
+                "file": "论文/Word check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/s100090050046.pdf"
+                "file": "论文/Word check.md"
               }
             }
           },
@@ -163,8 +165,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "论文/s100090050046.pdf",
+    "论文/Word check.md",
     "论文/nsdi20-paper-yousefi.pdf",
     "论文/240518.240640.pdf",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
@@ -176,7 +180,6 @@
     "Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "Synthesis_of_Reactive_Switching_Protocols_From.pdf",
     "Specification_Patterns_for_Robotic_Missions.pdf",
-    "9f42ed25-fe8b-459f-8750-4b89fb35cb79.pdf",
     "作业/并行计算/第三次作业.md",
     "time.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
@@ -207,7 +210,6 @@
     "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
