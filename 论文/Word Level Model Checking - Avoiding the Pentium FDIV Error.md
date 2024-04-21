@@ -1,4 +1,4 @@
-## Word Level Model Checking - Avoiding the Pentium FDIV Error
+
 
 Author: E. M. Clarke、M. Khaira和X. Zhao
 

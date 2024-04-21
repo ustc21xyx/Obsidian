@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/nsdi20-paper-yousefi.pdf"
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf"
               }
             }
           },
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md"
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf"
               }
             }
           },
@@ -176,21 +175,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "98a6d394e1c92a5f",
+  "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
+    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
+    "论文/Liveness Verification of Stateful Network Functions.pdf",
+    "论文/Liveness Verification of Stateful Network Functions.pdf",
+    "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
     "论文/nsdi20-paper-yousefi.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
-    "test.pdf",
-    "Liveness Verification of Stateful Network Functions.pdf",
-    "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
-    "论文/s100090050046.pdf",
-    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
-    "论文/Synthesis_of_Reactive_Switching_Protocols_From.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
-    "Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
+    "test.pdf",
+    "论文/s100090050046.pdf",
+    "论文/Synthesis_of_Reactive_Switching_Protocols_From.pdf",
     "论文/240518.240640.pdf",
     "论文/time.md",
-    "论文/978-3-319-08867-9.pdf",
     "作业/并行计算/第三次作业.md",
     "time.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
