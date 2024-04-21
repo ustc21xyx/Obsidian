@@ -106,3 +106,70 @@ $$
 
 显然，转换关系的BDD表示具有指数大小，因为乘法器中间位的BDD表示是指数级的。有时可以通过转换关系的合取分解来避免这个问题。设$\bar{x}, \bar{y}$和$\bar{z}$为分别编码$x, y$和$z$的当前状态值的状态变量。设$\bar{x}', \bar{y}'$和$\bar{z}'$为分别编码$x, y$和$z$的下一个状态值的状态变量。假设我们想验证形式为$f(x, y, z)$的字级属性。如果出现next$(z)$，我们可以在字级将其替换为$x \times y$，得到新的公式。希望得到的公式与$z$无关，公式的BDD表示可以表示为$f'(\bar{x}, \bar{y})$。在这种情况下，我们可以使用$Tr'$作为转换关系来执行不动点操作。即使$f'$依赖于$z$的某些位，我们通常也可以通过消除不需要的位的值的合取来获得更简单的转换关系。
 
+### 4 验证SRT除法电路
+
+通过使用字级模型检查系统，我们已成功验证了基于Pentium使用的SRT算法的除法和平方根计算电路。我们能够同时处理控制逻辑和数据路径。我们研究的除法电路有5个状态：空闲（idle）、初始化（init）、循环（loop）、最后（last）和余数（rem）。这个电路可以执行两种操作：除法和求余。当操作是除法时，计算的步骤是：
+
+$$
+\text{idle} \rightarrow \text{init} \rightarrow \text{loop}^{*} \rightarrow \text{last} \rightarrow \text{idle}
+$$
+
+当操作是求余时，步骤是：
+
+$$
+\text{idle} \rightarrow \text{init} \rightarrow \text{loop}^{*} \rightarrow \text{last} \rightarrow \text{rem} \rightarrow \text{idle}
+$$
+
+图1展示了循环状态时电路的数据路径。所有的字都有70位。然而，只有部分余数和除数的倍数的前导位被用来计算下一个周期的商位。
+
+我们已经验证了包含控制逻辑和数据路径的电路。有限状态机中的所有状态都已经被检查。设$r$为部分余数，$q$为商，$d$为除数。我们检查了以下属性：
+- 表达式$r + q \cdot d$始终等于左移后的被除数，即$r + q \cdot d = 2^{2k}$被除数。
+- 计算不会溢出。这通过$-\frac{8}{3}d \leq r \leq \frac{8}{3}d$保证。
+
+![|370](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240422000959.png)
+
+例如，我们已经证明在初始化状态，余数是被除数，商是零。因此，$r + q \cdot d$的初始值等于被除数。此外，上述不等式在初始化状态也成立。
+
+SPEC $AG(\text{state} = \text{init} \rightarrow r = \text{dividend} \& q = 0)$
+
+SPEC $AG(\text{state} = \text{init} \rightarrow (-8) \cdot d \leq 3 \cdot r \leq 8 \cdot d)$
+
+我们还证明了在循环状态，不等式始终成立，并且$r + q \cdot d$对于左移是不变的。
+
+上述属性足以保证在循环状态，$r + q \cdot d$始终等于左移后的被除数。类似的属性也被证明适用于最后和余数状态。此外，我们还验证了一个计算平方根的电路。我们验证的电路中状态变量的总数超过600（远大于SMV之前检查的任何电路）。
+
+### 5 未来研究方向
+
+我们已经使用字级符号模型检查来复现Pentium FDIV错误，并成功验证了修正后的电路。在本文中，我们描述了使用我们的字级模型检查器对基于SRT算法的浮点除法电路进行形式验证。我们计划在更多电路上进行实验。可能的应用包括浮点乘法器、浮点加法器等。
+
+我们解决算术关系的算法对于线性方程和不等式表现非常好。尽管当前算法也可以处理一些非线性方程和不等式，但可能有可能扩展这个算法或找到一个新的算法来处理更复杂的非线性方程和不等式。
+
+这种技术还有一个问题。它只能用于保持数据精确值的电路。当发生四舍五入时，函数变得不够规则，混合BDD表示的大小可能会爆炸。在这些情况下，四舍五入后得到的新值可以通过一组不等式来描述，验证过程就简化为解决这些系统。在另一个研究项目中，我们基于符号计算系统Mathematica构建了一个定理证明器，名为Analytica。Analytica在处理方程和不等式方面表现很好。我们相信，在一些修改后，Analytica将有助于解决计算机算术中由于四舍五入产生的不等式问题。
+
+### Reference
+
+以下是论文中提到的参考文献及其对应的超链接：
+
+1. R. E. Bryant and Y. A. Chen. Verification of arithmetic functions with Binary Moment Diagrams. In Proceedings of the 32nd ACM/IEEE Design Automation Conference, pages 535-541. IEEE Computer Society Press, June 1995.
+   - [链接](https://www.semanticscholar.org/paper/233dafb7615c3c07585f6aeda295db980f3acde8)
+
+2. J. R. Burch, E. M. Clarke, K. L. McMillan, D. L. Dill, and L. J. Hwang. Symbolic model checking: $$10^{20}$$ states and beyond. Information and Computation, 98(2):142-170, June 1992.
+   - [链接](https://www.semanticscholar.org/paper/b043478f18af37c0d1248b2f2f5016cf08c0a55c)
+
+3. E. M. Clarke and E. A. Emerson. Synthesis of synchronization skeletons for branching time temporal logic. In Logic of Programs: Workshop, Yorktown Heights, NY, May 1981, volume 131 of Lecture Notes in Computer Science. Springer-Verlag, 1981.
+   - [链接](https://www.semanticscholar.org/paper/0b3210f4cfdb3e347592f2f978977e4cd425e48e)
+
+4. E. M. Clarke, E. A. Emerson, and A. P. Sistla. Automatic verification of finite-state concurrent systems using temporal logic specifications. ACM Transactions on Programming Languages and Systems, 8(2):244-263, 1986.
+   - [链接](https://www.semanticscholar.org/paper/3bbd179c48820e75a84e9075f270073c80470f99)
+
+5. E. M. Clarke, M. Fujita, and X. Zhao. Hybrid Decision Diagrams - overcoming the limitations of MTBDDs and BMDs. In Proceedings of the 1995 Proceedings of the IEEE International Conference on Computer Aided Design, pages 159-163. IEEE Computer Society Press, November 1995.
+   - [链接](https://www.semanticscholar.org/paper/233dafb7615c3c07585f6aeda295db980f3acde8)
+
+6. E. M. Clarke and X. Zhao. Analytica: A theorem prover for Mathematica. The Journal of Mathematica, 3(1), 1993.
+   - [链接](https://www.semanticscholar.org/paper/b043478f18af37c0d1248b2f2f5016cf08c0a55c)
+
+7. K. L. McMillan. Symbolic Model Checking. Kluwer Academic Publishers, 1993.
+   - [链接](https://www.semanticscholar.org/paper/0b3210f4cfdb3e347592f2f978977e4cd425e48e)
+
+8. G. S. Taylor. Compatible hardware for division and square root. In Proceedings of the Fifth IEEE Symposium on Computer Arithmetic, 1993.
+   - [链接](https://www.semanticscholar.org/paper/3bbd179c48820e75a84e9075f270073c80470f99)

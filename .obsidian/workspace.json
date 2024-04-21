@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Word check.md",
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Word check.md",
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Word check.md",
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Word check.md"
+                "file": "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
     "论文/s100090050046.pdf",
-    "论文/Word check.md",
+    "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "论文/nsdi20-paper-yousefi.pdf",
     "论文/240518.240640.pdf",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
@@ -179,7 +180,6 @@
     "论文/9f42ed25-fe8b-459f-8750-4b89fb35cb79.pdf",
     "Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "Synthesis_of_Reactive_Switching_Protocols_From.pdf",
-    "Specification_Patterns_for_Robotic_Missions.pdf",
     "作业/并行计算/第三次作业.md",
     "time.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
