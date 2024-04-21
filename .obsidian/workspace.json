@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
+                "file": "作业/并行计算/第三次作业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7235c47b91abb8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c871ad814fe34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
+                "file": "作业/并行计算/第三次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
+                "file": "作业/并行计算/第三次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md"
+                "file": "作业/并行计算/第三次作业.md"
               }
             }
           },
@@ -167,7 +186,10 @@
   },
   "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "time.md",
     "作业/并行计算/第三次作业.md",
+    "time.txt",
+    "Clipper/两小时入门MPI与并行计算系列.md",
     "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
     "实验笔记/形式化/第2次实验.md",
     "作业/并行计算/Figure_1.png",
@@ -200,8 +222,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "杂/TIPS for Blue Topaz/Example/Callout环绕布局、缩进效果示例.md",
     "Callout环绕布局、缩进效果示例.pdf",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
-    "杂/TIPS for Blue Topaz/Example/涂黑和挖空效果（三种语法）.md",
     "涂黑和挖空效果（三种语法）.pdf",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
@@ -212,7 +232,6 @@
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "杂/TIPS for Blue Topaz/Example",
     "杂/TIPS for Blue Topaz/Attachemnt",
-    "杂/TIPS for Blue Topaz",
     "未命名.canvas"
   ]
 }
