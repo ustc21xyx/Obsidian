@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PB21081577_徐云翔.pdf"
+                "file": "论文/s100090050046.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PB21081577_徐云翔.pdf",
+                "file": "论文/s100090050046.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PB21081577_徐云翔.pdf",
+                "file": "论文/s100090050046.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PB21081577_徐云翔.pdf"
+                "file": "论文/s100090050046.pdf"
               }
             }
           },
@@ -165,12 +165,22 @@
   },
   "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "论文/nsdi20-paper-yousefi.pdf",
+    "论文/240518.240640.pdf",
+    "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
+    "论文/time.md",
+    "论文/Synthesis_of_Reactive_Switching_Protocols_From.pdf",
+    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
+    "论文/978-3-319-08867-9.pdf",
+    "论文/9f42ed25-fe8b-459f-8750-4b89fb35cb79.pdf",
+    "Weak--strong--and-strong-cyclic-planning-via-s.pdf",
+    "Synthesis_of_Reactive_Switching_Protocols_From.pdf",
+    "Specification_Patterns_for_Robotic_Missions.pdf",
+    "9f42ed25-fe8b-459f-8750-4b89fb35cb79.pdf",
     "作业/并行计算/第三次作业.md",
-    "PB21081577_徐云翔.pdf",
     "time.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "作业/并行计算/Figure_2.png",
-    "time.txt",
     "Clipper/两小时入门MPI与并行计算系列.md",
     "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
     "实验笔记/形式化/第2次实验.md",
@@ -182,7 +192,6 @@
     "形式化/BDD.md",
     "形式化/LTL.md",
     "形式化/CTL.md",
-    "BDD.pdf",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
@@ -199,17 +208,9 @@
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "Callout环绕布局、缩进效果示例.pdf",
-    "涂黑和挖空效果（三种语法）.pdf",
-    "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
-    "杂/TIPS for Blue Topaz/Example/◾ TableExample",
-    "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
-    "杂/TIPS for Blue Topaz/Example/Reading",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
-    "杂/TIPS for Blue Topaz/Example",
     "未命名.canvas"
   ]
 }
