@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "file": "论文/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "file": "论文/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "file": "论文/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Liveness Verification of Stateful Network Functions.md"
+                "file": "论文/test.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "98a6d394e1c92a5f",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
     "论文/nsdi20-paper-yousefi.pdf",
-    "论文/Liveness Verification of Stateful Network Functions.md",
+    "论文/test.md",
     "Liveness Verification of Stateful Network Functions.pdf",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/s100090050046.pdf",
