@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md",
+                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验笔记/形式化/第2次实验.md"
+                "file": "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md"
               }
             }
           },
@@ -167,9 +167,11 @@
   },
   "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "作业/并行计算/第三次作业.md",
+    "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
+    "实验笔记/形式化/第2次实验.md",
     "作业/并行计算/Figure_1.png",
     "作业/并行计算/Figure_2.png",
-    "作业/并行计算/第三次作业.md",
     "杂/并行计算.md",
     "Clipper/动画的制作顺序.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
@@ -201,7 +203,6 @@
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "杂/TIPS for Blue Topaz/Example/涂黑和挖空效果（三种语法）.md",
     "涂黑和挖空效果（三种语法）.pdf",
-    "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
@@ -212,7 +213,6 @@
     "杂/TIPS for Blue Topaz/Example",
     "杂/TIPS for Blue Topaz/Attachemnt",
     "杂/TIPS for Blue Topaz",
-    "(20220223)视频的编解码格式_Alex Chung/(20220223)视频的编解码格式_Alex Chung/v2-bfeeefe21e63d537b79238804a7a33e6_b.jpg",
     "未命名.canvas"
   ]
 }
