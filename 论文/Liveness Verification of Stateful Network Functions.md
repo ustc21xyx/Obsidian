@@ -84,8 +84,20 @@
 
 通过递归地应用于网络中所有规则的有序列表(根据优先级)，$K((h, a), W_{0, n}, W_{0, n}')$将命题$(h, a)$表达为$R_i$和$R_i'$变量的布尔公式。例如，在图1中的IDPS功能中，命题$((\text{src}=I, \text{dst}=E), \text{send}())$被翻译为以下布尔公式：
 
-$$ K(((\text{src}=I, \text{dst}=E), \text{send}()), W_{0,4}, W_{0,4}') = \neg(R_0 \wedge R_0') \wedge (R_4 \wedge R_4') $$
+$$\begin{aligned}
+K(((\text{src=}I,\text{dst=}E),\text{send()}),W_{0,4},W_{0.4}^{\prime})& =  \\
+(R_0\wedge R_0^{\prime})\wedge(K(((\text{src=}I,\text{dst=}E),\text{send()}),W_{1,4},W_{1,4}^{\prime}))& =  \\
+\neg(R_0\wedge R_0^{\prime})\wedge K(((\text{src=}I,\text{dst=}E),\text{send()}),W_{2,4},W_{2,4}^{\prime})& =  \\
+& =  \\
+\neg(R_0\wedge R_0^{\prime})\wedge K(((\text{src=}I,\text{dst=}E),\text{send()}),W_{4,4},W_{4,4}^{\prime})& =  \\
+\neg(R_0\wedge R_0^{\prime})\wedge  \\
+(((R_4\wedge R_4^{\prime})\wedge K((\varnothing,\text{send()}),[]))\vee\\(\neg(R_4\wedge R_4^{\prime})\wedge K(((\text{src}=I,\text{dst}=E),\text{send()}),[])))&=\\\neg(R_0\wedge R_0^{\prime})\wedge(R_4\wedge R_4^{\prime}).&   \\
+\end{aligned}$$
 
-这个布尔公式是根据情况(2)，(3)，(3)，(3)，(1)和前两个特殊情况分别指定的规则得出的。它在图4中不同状态的真值不同，取决于那些状态中规则的真值，例如，在初始状态$S_0$中，$R_0=$ false且
+这个布尔公式是根据情况（2）、（3）、（3）、（3）、（1）以及前两个特殊情况指定的规则得出的。在图4中不同状态的真值不同，取决于那些状态中规则的真值，例如，在初始状态$S_0$中，$R_0=$ false且$R_4=$ true，意味着断言（$(\text{src}=I, \text{dst}=E)$, send()）成立（在这个状态中$I$可以与$E$通信），但在最终状态（$I$被阻止）中，$R_0=$ true且$R_4=$ true，此时为false。注意，在这个例子中$R_i'$变量始终为true，因为规则不依赖于计数器。
+
+在网络转换系统$TS$中，标签函数$L$将每个状态映射到在该状态中成立的原子命题集合。也就是说，如果动作列表$a$适用于$h$中的所有数据包，则$(h, a)$存在于$L(s)$中，即$K((h, a), W_{0, n}, W_{0, n}')=$ true，其中$W_{0, n}$和$W_{0, n}'$分别是$s$中规则$R_i$和变量$R_i'$的列表（按规则优先级的非递增顺序排序）。
+
+
 
 
