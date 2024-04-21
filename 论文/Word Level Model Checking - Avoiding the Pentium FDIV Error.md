@@ -1,4 +1,6 @@
-这篇文档的标题是“字级模型检查 - 避免Pentium FDIV错误”，作者是E. M. Clarke、M. Khaira和X. Zhao。以下是逐段翻译：
+## Word Level Model Checking - Avoiding the Pentium FDIV Error
+
+Author: E. M. Clarke、M. Khaira和X. Zhao
 
 ### 摘要
 
@@ -16,7 +18,6 @@ Pentium中广为人知的除法错误强调了对算术电路进行形式验证�
 
 通过使用字级模型检查系统，我们已成功验证了基于Pentium使用的SRT算法的除法和平方根计算电路。我们能够处理控制逻辑和数据路径。所有控制逻辑的有限状态机中的状态都已验证。此外，我们已证明保证数据值正确性并防止溢出的不变属性。状态变量的总数超过600（远大于SMV之前检查的任何电路）。
 
-由于文档内容较长，我将继续从上次翻译的部分开始，逐段进行翻译。
 
 ### 2 字级CTL
 
@@ -30,9 +31,7 @@ Bryant和Chen已经展示了，对于某些具有指数大小MTBDD的函数，�
 - 原子命题：$Ap=\{p_1, \ldots, p_k\}$
 - 命题公式：$Prop ::= Ap \mid Prop \wedge Prop \mid \neg Prop$
 - 字：$Word ::= (Prop, Prop, \ldots, Prop)$
-- 表达式：
-
-$Exp ::= Constant \mid Word \mid \operatorname{next}(Word) \mid Exp \odot Exp \mid \text{if } SF \text{ then } Exp \text{ else } Exp$，其中$\odot$可以是$+,-,\times$。
+- 表达式：$Exp ::= Constant \mid Word \mid \operatorname{next}(Word) \mid Exp \odot Exp \mid \text{if } SF \text{ then } Exp \text{ else } Exp$，其中$\odot$可以是$+,-,\times$。
 - 原子公式：$AF ::= Ap \mid \{\mathbf{A} \mid \mathbf{E}\}(Exp \sim Exp)$，其中$\sim$可以是$=,<,\leq$。由于系统的非确定性行为，对于给定状态可能存在多个可能的下一个状态。因此，当在表达式中使用下一个状态运算符时，需要路径量词。
 - 静态公式：$SF ::= AF \mid SF \wedge SF \mid \neg SF$
 - 时态公式：$TF ::= SF \mid TF \wedge TF \mid \neg TF \mid \mathbf{AX} TF \mid \{\mathbf{A} \mid \mathbf{E}\}[TF \mathrm{U} TF]$
@@ -82,7 +81,9 @@ s \vDash & \mathbf{E}(e_1 \sim e_2) \Leftrightarrow \\
 $$
 
 公式$\mathbf{A}(e_1 \sim e_2)$在状态$s$为真，当且仅当$(e_1 \sim e_2)$对所有后继状态都成立。同样地，$E(e_1 \sim e_2)$在状态$s$为真，当且仅当$(e_1 \sim e_2)$对某些后继状态成立。
-- SF和TF的语义与CTL中的
+- SF和TF的语义与CTL中的相同。
+
+这种逻辑自然可以分为三层。顶层包含原子公式、静态公式和时态公式。第二层包含字和表达式。第三层包含原子命题和命题公式。顶层和底层的所有对象都是布尔函数，而第二层的对象是将布尔向量映射到整数的函数。因此，在字级模型检查系统中，所有的原子命题、命题、原子公式、静态公式和时态公式都表示为BDDs；而字和表达式则表示为混合决策图。
 
 ### 3 字级模型检查
 
@@ -126,7 +127,7 @@ $$
 - 表达式$r + q \cdot d$始终等于左移后的被除数，即$r + q \cdot d = 2^{2k}$被除数。
 - 计算不会溢出。这通过$-\frac{8}{3}d \leq r \leq \frac{8}{3}d$保证。
 
-![|370](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240422000959.png)
+![|307](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240422000959.png)
 
 例如，我们已经证明在初始化状态，余数是被除数，商是零。因此，$r + q \cdot d$的初始值等于被除数。此外，上述不等式在初始化状态也成立。
 
@@ -153,7 +154,7 @@ SPEC $AG(\text{state} = \text{init} \rightarrow (-8) \cdot d \leq 3 \cdot r \leq
 1. R. E. Bryant and Y. A. Chen. Verification of arithmetic functions with Binary Moment Diagrams. In Proceedings of the 32nd ACM/IEEE Design Automation Conference, pages 535-541. IEEE Computer Society Press, June 1995.
    - [链接](https://www.semanticscholar.org/paper/233dafb7615c3c07585f6aeda295db980f3acde8)
 
-2. J. R. Burch, E. M. Clarke, K. L. McMillan, D. L. Dill, and L. J. Hwang. Symbolic model checking: $$10^{20}$$ states and beyond. Information and Computation, 98(2):142-170, June 1992.
+2. J. R. Burch, E. M. Clarke, K. L. McMillan, D. L. Dill, and L. J. Hwang. Symbolic model checking: $10^{20}$ states and beyond. Information and Computation, 98(2):142-170, June 1992.
    - [链接](https://www.semanticscholar.org/paper/b043478f18af37c0d1248b2f2f5016cf08c0a55c)
 
 3. E. M. Clarke and E. A. Emerson. Synthesis of synchronization skeletons for branching time temporal logic. In Logic of Programs: Workshop, Yorktown Heights, NY, May 1981, volume 131 of Lecture Notes in Computer Science. Springer-Verlag, 1981.
