@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#软件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,11 +165,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "865d738e80d46449",
+  "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "Clipper/动画的制作顺序.md",
+    "杂/并行计算.md",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "杂/一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
-    "杂/并行计算.md",
     "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "形式化/BDD.md",
     "形式化/LTL.md",
@@ -201,7 +201,6 @@
     "杂/TIPS for Blue Topaz/Example/多彩高亮（三种语法）.md",
     "杂/TIPS for Blue Topaz/Example/真Kanban.md",
     "杂/TIPS for Blue Topaz/Example/callout 便签效果.md",
-    "杂/TIPS for Blue Topaz/Example/伪看板-ad,callout声明.md",
     "Clipper/For this continuous non differentiable function $f$ How to determine $sup{a}$ s.t $limlimits_{hto0}frac{f(x+h)-f(x)}{h^alpha}",
     "杂/TIPS for Blue Topaz/Example/◾ TableExample",
     "杂/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
