@@ -13,7 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf"
+                "file": "论文/nsdi20-paper-yousefi.pdf"
+              }
+            }
+          },
+          {
+            "id": "98a6d394e1c92a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/Liveness Verification of Stateful Network Functions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
+                "file": "论文/nsdi20-paper-yousefi.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
+                "file": "论文/nsdi20-paper-yousefi.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf"
+                "file": "论文/nsdi20-paper-yousefi.pdf"
               }
             }
           },
@@ -165,14 +177,15 @@
   },
   "active": "691f90f4e016b028",
   "lastOpenFiles": [
+    "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/nsdi20-paper-yousefi.pdf",
+    "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/s100090050046.pdf",
     "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Synthesis_of_Reactive_Switching_Protocols_From.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
     "论文/240518.240640.pdf",
-    "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/time.md",
     "论文/978-3-319-08867-9.pdf",
     "论文/9f42ed25-fe8b-459f-8750-4b89fb35cb79.pdf",
@@ -206,7 +219,6 @@
     "杂/TIPS for Blue Topaz/Example/单独定制笔记背景.md",
     "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "杂/TIPS for Blue Topaz/从这开始.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
