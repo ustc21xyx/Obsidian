@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文/Specification_Patterns_for_Robotic_Missions.pdf"
+                "file": "论文/s100090050046.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Specification_Patterns_for_Robotic_Missions.pdf",
+                "file": "论文/s100090050046.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Specification_Patterns_for_Robotic_Missions.pdf",
+                "file": "论文/s100090050046.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Specification_Patterns_for_Robotic_Missions.pdf"
+                "file": "论文/s100090050046.pdf"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "84f5c03bab9ffcb7",
   "lastOpenFiles": [
+    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.pdf",
     "论文/240518.240640.pdf",
     "NuSMV.md",
@@ -172,7 +173,6 @@
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
-    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "test.pdf",
     "论文/s100090050046.pdf",
