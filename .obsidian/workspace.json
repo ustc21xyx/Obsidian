@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "691f90f4e016b028",
+            "id": "c632eea15d381d13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/nsdi20-paper-yousefi.pdf"
+                "file": "NuSMV.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/nsdi20-paper-yousefi.pdf",
+                "file": "NuSMV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/nsdi20-paper-yousefi.pdf",
+                "file": "NuSMV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/nsdi20-paper-yousefi.pdf"
+                "file": "NuSMV.md"
               }
             }
           },
@@ -163,15 +165,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "691f90f4e016b028",
+  "active": "c632eea15d381d13",
   "lastOpenFiles": [
+    "论文/nsdi20-paper-yousefi.pdf",
+    "NuSMV.md",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.pdf",
-    "论文/nsdi20-paper-yousefi.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "test.pdf",
     "论文/s100090050046.pdf",
@@ -206,7 +209,6 @@
     "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "杂/TIPS for Blue Topaz/Example/单独定制笔记背景.md",
     "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
