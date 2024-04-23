@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84f5c03bab9ffcb7",
+            "id": "dbbd3bba8b5e8fe4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf"
+                "file": "实验笔记/文本表征/文本表征第二次实验.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
+                "file": "实验笔记/文本表征/文本表征第二次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
+                "file": "实验笔记/文本表征/文本表征第二次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf"
+                "file": "实验笔记/文本表征/文本表征第二次实验.md"
               }
             }
           },
@@ -163,8 +165,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "84f5c03bab9ffcb7",
+  "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
+    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "杂/TIPS for Blue Topaz/从这开始.md",
+    "实验笔记/文本表征/文本表征第二次实验.md",
+    "实验笔记/文本表征",
+    "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
     "论文/s100090050046.pdf",
     "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.pdf",
@@ -176,11 +183,9 @@
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "test.pdf",
-    "论文/Synthesis_of_Reactive_Switching_Protocols_From.pdf",
     "论文/time.md",
     "作业/并行计算/第三次作业.md",
     "time.md",
-    "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "作业/并行计算/Figure_2.png",
     "Clipper/两小时入门MPI与并行计算系列.md",
     "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
@@ -205,7 +210,6 @@
     "杂/TIPS for Blue Topaz/Example/电影看板.md",
     "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "杂/TIPS for Blue Topaz/Example/单独定制笔记背景.md",
-    "杂/TIPS for Blue Topaz/Example/电影观看清单（dv）.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
