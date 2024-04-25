@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第二次实验.md",
+                "file": "Clipper/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第二次实验.md",
+                "file": "Clipper/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第二次实验.md",
+                "file": "Clipper/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第二次实验.md"
+                "file": "Clipper/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md"
               }
             }
           },
@@ -165,11 +165,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbbd3bba8b5e8fe4",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
+    "形式化/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
+    "形式化/Liveness Verification of Stateful Network Functions.md",
+    "实验笔记/文本表征/文本表征第二次实验.md",
+    "Clipper/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
     "文本表征第二次实验.pdf",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "实验笔记/文本表征/文本表征第二次实验.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "实验笔记/文本表征",
     "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
@@ -183,7 +186,6 @@
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Weak--strong--and-strong-cyclic-planning-via-s.pdf",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
-    "test.pdf",
     "论文/time.md",
     "作业/并行计算/第三次作业.md",
     "time.md",
@@ -208,8 +210,6 @@
     "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Example/timeline callout效果.md",
     "杂/TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
-    "杂/TIPS for Blue Topaz/Example/电影看板.md",
-    "杂/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
