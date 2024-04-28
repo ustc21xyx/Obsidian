@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "作业/ai/第6次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "作业/ai/第6次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "作业/ai/第6次作业.md"
+              }
             }
           },
           {
@@ -147,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +166,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ca15aafe43228d9e",
+  "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
     "作业/ai/第6次作业.md",
     "作业/ai/第五次作业.md",
