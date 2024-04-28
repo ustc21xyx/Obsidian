@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "作业/ai/第6次作业.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "作业/ai/第6次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
+                "file": "作业/ai/第6次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md"
+                "file": "作业/ai/第6次作业.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
+    "作业/ai/第五次作业.md",
+    "作业/ai/第6次作业.md",
+    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "形式化/CTL.md",
     "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
     "杂/两小时入门MPI与并行计算系列.md",
@@ -174,7 +177,6 @@
     "1713893726.814971.png",
     "PB21081577_徐云翔_hw2.pdf",
     "NuSMV.md",
-    "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "形式化/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "形式化/Liveness Verification of Stateful Network Functions.md",
     "实验笔记/文本表征/文本表征第二次实验.md",
@@ -210,7 +212,6 @@
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
     "杂/TIPS for Blue Topaz/Example/全宽表格示例.md",
-    "杂/TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "未命名.canvas"
   ]
