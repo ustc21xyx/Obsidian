@@ -11,13 +11,26 @@
             "id": "dbbd3bba8b5e8fe4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PB21081577_徐云翔.pdf"
+                "file": "作业/形式化/第5次作业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac360fb819a3fef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PB21081577_徐云翔.pdf",
+                "file": "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PB21081577_徐云翔.pdf",
+                "file": "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PB21081577_徐云翔.pdf"
+                "file": "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             }
           },
           {
-            "id": "ca15aafe43228d9e",
+            "id": "c4b6430f1c6ca9b2",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -163,10 +176,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbbd3bba8b5e8fe4",
+  "active": "aac360fb819a3fef",
   "lastOpenFiles": [
-    "作业/ai/第6次作业.md",
+    "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
+    "作业/形式化/第5次作业.md",
     "PB21081577_徐云翔.pdf",
+    "作业/形式化",
+    "作业/ai/第6次作业.md",
     "作业/ai/第五次作业.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
     "形式化/CTL.md",
@@ -188,7 +204,6 @@
     "论文/Specification_Patterns_for_Robotic_Missions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.pdf",
     "论文/240518.240640.pdf",
-    "论文/nsdi20-paper-yousefi.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "论文/time.md",
@@ -203,7 +218,6 @@
     "杂/一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
     "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "形式化/BDD.md",
-    "形式化/LTL.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
