@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业/形式化/第5次作业.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/形式化/第5次作业.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/形式化/第5次作业.md",
+                "file": "实验笔记/AI/第一次实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/形式化/第5次作业.md"
+                "file": "实验笔记/AI/第一次实验.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   },
   "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
+    "作业/形式化/第5次作业.md",
     "PB21081577_徐云翔.pdf",
     "作业/ai/第6次作业.md",
-    "作业/形式化/第5次作业.md",
     "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "作业/形式化",
     "作业/ai/第五次作业.md",
