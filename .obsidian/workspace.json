@@ -11,9 +11,11 @@
             "id": "dbbd3bba8b5e8fe4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "report.pdf"
+                "file": "杂/Git的使用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "report.pdf",
+                "file": "杂/Git的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "report.pdf",
+                "file": "杂/Git的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "report.pdf"
+                "file": "杂/Git的使用.md"
               }
             }
           },
@@ -163,10 +165,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
-    "实验笔记/AI/第一次实验.md",
     "report.pdf",
+    "实验笔记/AI/第一次实验.md",
     "作业/形式化/第5次作业.md",
     "PB21081577_徐云翔.pdf",
     "作业/ai/第6次作业.md",
@@ -204,7 +206,6 @@
     "杂/并行计算.md",
     "Clipper/动画的制作顺序.md",
     "杂/一般2D动画的制作软件和制作流程是怎样的 - 知乎.md",
-    "杂/Dedekind分劃(cut) · mathematical_analysis.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
