@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第三次实验.md",
+                "file": "作业/ai/第7次作业.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第三次实验.md",
+                "file": "作业/ai/第7次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第三次实验.md",
+                "file": "作业/ai/第7次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验笔记/文本表征/文本表征第三次实验.md"
+                "file": "作业/ai/第7次作业.md"
               }
             }
           },
@@ -167,13 +167,16 @@
   },
   "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
-    "实验笔记/文本表征/文本表征第二次实验.md",
+    "实验笔记/AI/第一次实验.md",
+    "作业/ai/第7次作业.md",
+    "Decision Procedures -- An Algorithmic Point of Vie (中文（简体）).pdf",
+    "PB21081577_徐云翔.pdf",
+    "PB21081577_徐云翔_hw3.pdf",
     "实验笔记/文本表征/文本表征第三次实验.md",
+    "实验笔记/文本表征/文本表征第二次实验.md",
     "杂/Git的使用.md",
     "report.pdf",
-    "实验笔记/AI/第一次实验.md",
     "作业/形式化/第5次作业.md",
-    "PB21081577_徐云翔.pdf",
     "作业/ai/第6次作业.md",
     "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "作业/形式化",
@@ -194,8 +197,6 @@
     "实验笔记/文本表征",
     "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
     "论文/s100090050046.pdf",
-    "论文/Specification_Patterns_for_Robotic_Missions.pdf",
-    "论文/Liveness Verification of Stateful Network Functions.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "论文/time.md",
@@ -206,7 +207,6 @@
     "实验笔记/形式化/第2次实验.md",
     "作业/并行计算/Figure_1.png",
     "杂/并行计算.md",
-    "Clipper/动画的制作顺序.md",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
