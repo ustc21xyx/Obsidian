@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b08e623614388ba6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md",
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md",
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md"
+                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             }
           },
           {
-            "id": "c4b6430f1c6ca9b2",
+            "id": "fac2c2e698069b8d",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -165,10 +177,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbbd3bba8b5e8fe4",
+  "active": "b08e623614388ba6",
   "lastOpenFiles": [
-    "Clipper/数据库范式（1NF 2NF 3NF BCNF）详解_如何判断1nf2nf3nf和bcnf-CSDN博客.md",
+    "Excalidraw/Drawing 2024-05-12 20.37.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-12 20.34.40.excalidraw.md",
     "作业/并行计算/并行计算第4次作业.md",
+    "Clipper/数据库范式（1NF 2NF 3NF BCNF）详解_如何判断1nf2nf3nf和bcnf-CSDN博客.md",
     "作业/ai/第7次作业.md",
     "PB21081577_徐云翔.pdf",
     "作业/ai/第6次作业.md",
@@ -180,7 +196,6 @@
     "杂/Git的使用.md",
     "report.pdf",
     "作业/形式化/第5次作业.md",
-    "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "作业/形式化",
     "作业/ai/第五次作业.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
@@ -202,10 +217,7 @@
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "论文/time.md",
-    "作业/并行计算/第三次作业.md",
-    "time.md",
     "作业/并行计算/Figure_2.png",
-    "Clipper/两小时入门MPI与并行计算（三）：MPI的6个基本函数.md",
     "作业/并行计算/Figure_1.png",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
