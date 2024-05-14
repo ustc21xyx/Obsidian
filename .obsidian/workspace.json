@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业/ai/第7次作业.md",
+                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/ai/第7次作业.md",
+                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/ai/第7次作业.md",
+                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/ai/第7次作业.md"
+                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md"
               }
             }
           },
@@ -183,8 +183,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3ebe36e395484e4d",
+  "active": "dbbd3bba8b5e8fe4",
   "lastOpenFiles": [
+    "作业/ai/第7次作业.md",
     "作业/形式化/第5次作业.md",
     "作业/并行计算/并行计算第4次作业.md",
     "PB21081577_徐云翔.pdf",
@@ -194,7 +195,6 @@
     "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "Excalidraw/Drawing 2024-05-12 20.34.40.excalidraw.md",
     "Clipper/数据库范式（1NF 2NF 3NF BCNF）详解_如何判断1nf2nf3nf和bcnf-CSDN博客.md",
-    "作业/ai/第7次作业.md",
     "作业/ai/第6次作业.md",
     "实验笔记/AI/第一次实验.md",
     "Decision Procedures -- An Algorithmic Point of Vie (中文（简体）).pdf",
