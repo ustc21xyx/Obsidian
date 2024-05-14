@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md",
+                "file": "作业/ai/第7次作业.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md",
+                "file": "作业/ai/第7次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md",
+                "file": "作业/ai/第7次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/并行计算/并行计算第4次作业.md"
+                "file": "作业/ai/第7次作业.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             }
           },
           {
-            "id": "5312374f817f9888",
+            "id": "3ebe36e395484e4d",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -180,13 +179,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "5312374f817f9888",
+  "active": "3ebe36e395484e4d",
   "lastOpenFiles": [
-    "PB21081577_徐云翔.pdf",
+    "作业/形式化/第5次作业.md",
     "作业/并行计算/并行计算第4次作业.md",
+    "PB21081577_徐云翔.pdf",
     "PB21081577_徐云翔.pdf",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "Excalidraw/Drawing 2024-05-12 20.37.46.excalidraw.md",
@@ -202,7 +203,6 @@
     "实验笔记/文本表征/文本表征第二次实验.md",
     "杂/Git的使用.md",
     "report.pdf",
-    "作业/形式化/第5次作业.md",
     "作业/形式化",
     "作业/ai/第五次作业.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
