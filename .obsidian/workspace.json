@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "作业/并行计算/并行计算第4次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+                "file": "作业/并行计算/并行计算第4次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
+                "file": "作业/并行计算/并行计算第4次作业.md"
               }
             }
           },
@@ -177,16 +175,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b08e623614388ba6",
+  "active": "0408f27e80d7c527",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-12 20.37.46.excalidraw.md",
+    "PB21081577_徐云翔.pdf",
+    "作业/并行计算/并行计算第4次作业.md",
+    "PB21081577_徐云翔.pdf",
     "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-12 20.37.46.excalidraw.md",
     "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "Excalidraw/Drawing 2024-05-12 20.34.40.excalidraw.md",
-    "作业/并行计算/并行计算第4次作业.md",
     "Clipper/数据库范式（1NF 2NF 3NF BCNF）详解_如何判断1nf2nf3nf和bcnf-CSDN博客.md",
     "作业/ai/第7次作业.md",
-    "PB21081577_徐云翔.pdf",
     "作业/ai/第6次作业.md",
     "实验笔记/AI/第一次实验.md",
     "Decision Procedures -- An Algorithmic Point of Vie (中文（简体）).pdf",
@@ -213,10 +212,8 @@
     "杂/TIPS for Blue Topaz/从这开始.md",
     "实验笔记/文本表征",
     "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
-    "论文/s100090050046.pdf",
     "论文/Liveness Verification of Stateful Network Functions.md",
     "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
-    "论文/time.md",
     "作业/并行计算/Figure_2.png",
     "作业/并行计算/Figure_1.png",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
