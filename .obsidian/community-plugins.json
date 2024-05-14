@@ -1,7 +1,6 @@
 [
   "obsidian-style-settings",
   "quick-latex",
-  "ollama",
   "obsidian-kanban",
   "mermaid-tools",
   "obsidian-image-auto-upload-plugin",
@@ -14,6 +13,5 @@
   "obsidian-advanced-uri",
   "obsidian-admonition",
   "mousewheel-image-zoom",
-  "obsidian-tikzjax",
-  "latex-algorithms"
+  "copilot"
 ]
