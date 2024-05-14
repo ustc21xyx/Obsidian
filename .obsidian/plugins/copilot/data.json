@@ -27,7 +27,7 @@
   "lmStudioBaseUrl": "http://localhost:1234/v1",
   "stream": true,
   "defaultSaveFolder": "copilot-conversations",
-  "indexVaultToVectorStore": "NEVER",
+  "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusionPaths": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],

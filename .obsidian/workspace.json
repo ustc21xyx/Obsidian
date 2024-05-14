@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "089fb7e64c847b96",
+            "id": "0b9b40fad2fda267",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -184,7 +184,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0408f27e80d7c527",
+  "active": "0b9b40fad2fda267",
   "lastOpenFiles": [
     "PB21081577_徐云翔.pdf",
     "作业/并行计算/并行计算第4次作业.md",
