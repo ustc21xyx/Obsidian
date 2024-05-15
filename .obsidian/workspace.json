@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbbd3bba8b5e8fe4",
+            "id": "b08e623614388ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
+                "file": "形式化/Decision procedures with applications to verification.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b08e623614388ba6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md"
               }
             }
           }
@@ -79,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf0b9c3e9557e9a",
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
+                "file": "形式化/Decision procedures with applications to verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
+                "file": "形式化/Decision procedures with applications to verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md"
+                "file": "形式化/Decision procedures with applications to verification.md"
               }
             }
           },
@@ -168,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,18 +171,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbbd3bba8b5e8fe4",
+  "active": "b08e623614388ba6",
   "lastOpenFiles": [
+    "形式化/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
+    "形式化/Decision procedures with applications to verification.md",
+    "形式化/Liveness Verification of Stateful Network Functions.md",
+    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
+    "形式化/CTL.md",
+    "形式化/LTL.md",
+    "形式化/BDD.md",
+    "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
     "作业/ai/第7次作业.md",
     "作业/形式化/第5次作业.md",
     "作业/并行计算/并行计算第4次作业.md",
     "PB21081577_徐云翔.pdf",
     "PB21081577_徐云翔.pdf",
-    "Excalidraw/Drawing 2024-04-14 15.47.58.excalidraw.md",
     "Excalidraw/Drawing 2024-05-12 20.37.46.excalidraw.md",
     "Excalidraw/Drawing 2024-05-01 12.59.32.excalidraw.md",
     "Excalidraw/Drawing 2024-05-12 20.34.40.excalidraw.md",
@@ -206,22 +204,16 @@
     "作业/形式化",
     "作业/ai/第五次作业.md",
     "形式化/【数理逻辑】学习笔记 014 命题逻辑的可靠性和完全性.md",
-    "形式化/CTL.md",
-    "形式化/迈克·纳哈斯的Coq教程（中文翻译） - chesium - 博客园.md",
     "杂/两小时入门MPI与并行计算系列.md",
     "1713893722.714961.png",
     "1713893726.814971.png",
     "PB21081577_徐云翔_hw2.pdf",
     "NuSMV.md",
-    "形式化/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
-    "形式化/Liveness Verification of Stateful Network Functions.md",
     "文本表征第二次实验.pdf",
     "杂/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "杂/TIPS for Blue Topaz/从这开始.md",
     "实验笔记/文本表征",
     "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
-    "论文/Liveness Verification of Stateful Network Functions.md",
-    "论文/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "作业/并行计算/Figure_2.png",
     "作业/并行计算/Figure_1.png",
     "杂/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",

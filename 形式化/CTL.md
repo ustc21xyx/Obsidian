@@ -1,7 +1,0 @@
----
-cssclass: img-grid
---- 
-
-
-
-
