@@ -9,5 +9,12 @@ SAT 求解中最重要的因素可能就是选择变量和变量值的策略。�
 下面介绍一些重要的决策启发式：
 
 #### Jeroslow-Wang
-给定一个CNF公式$\mathcal{B}$，对于每个$\mathcal{l}计算$
+$给定一个CNF公式\mathcal{B}，对于每个\mathcal{l}计算$
 $$\begin{aligned}J(l)&=\Sigma_{\omega\in\mathcal{B},l\in\omega}2^{-|\omega|},\end{aligned}$$
+$其中\omega 代表一个子句，|\omega|是它的长度，选择使得|mathcal{J}(\mathcal{l})最大的\mathcal{l}，并且\mathcal{l}和\neg \mathcal{l}都没有被断言$
+这个启发式会给频繁出现在短子句的字面量(literals)更高的优先级。它可以是静态的，也可以是动态的。动态的只考虑未被满足的子句。动态的启发式拥有更好的决策，但每次的决策也会有更大的开销。
+
+#### Dynamic Largest Individual Sum(DLIS)
+在每一个决策层，在所有未被赋值的字面量中，选择可以满足最多数量的未被满足的子句的字面量。
+想要实现这样的一个启发式，最常见的做法是对于每个字面量，维护一个指针，指向一个维护所有它出现的子句的列表（类似倒排索引）。
+
