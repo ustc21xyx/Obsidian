@@ -6,4 +6,8 @@
 ### Decision Heuristics 决策启发式
 
 SAT 求解中最重要的因素可能就是选择变量和变量值的策略。这种策略被称为 SAT 求解器的==决策启发式==。
-下面介绍一些重要的jue'ce'qi'fa's
+下面介绍一些重要的决策启发式：
+
+#### Jeroslow-Wang
+给定一个CNF公式$\mathcal{B}$，对于每个$\mathcal{l}计算$
+$$\begin{aligned}J(l)&=\Sigma_{\omega\in\mathcal{B},l\in\omega}2^{-|\omega|},\end{aligned}$$
