@@ -382,3 +382,40 @@ $$\alpha := {e(x=y) \mapsto \text{true}, e(y=z) \mapsto \text{false}, e(x=z) \ma
 3. 对于每对常量 $c_i, c_j$（$1 \le i < j \le n$），在 $\phi_E'$ 中添加约束 $C_{c_i} \neq C_{c_j}$
 
 算法4.1.1 通过用新变量替换常量来消除给定公式中的常量。问题4.1和4.2 关注此过程。除非另有说明，否则从此以后我们假设输入的等式公式不包含常量。
+
+### 4.2 Uninterpreted Functions
+
+等式逻辑如果结合未解释函数使用，将会变得更加有用。未解释函数用于对定理进行抽象或概括。与其他函数符号不同，它们不应作为公式模型的一部分进行解释。例如，在以下公式中，$F$ 和 $G$ 是未解释的，而二元函数符号“+”被解释为通常的加法函数：
+
+$$F(x) = F(G(y)) \lor x + 1 = y \ .$$
+
+**定义 4.3** (带未解释函数的等式逻辑 (EUF))：带有未解释函数和未解释谓词的等式逻辑公式定义如下语法：
+
+$$
+\begin{aligned}
+&\text{formula} : \text{formula} \land \text{formula} \ |\  \neg \text{formula} \ |\ (\text{formula}) \ |\ \text{atom} \\
+&\text{atom} : \text{term} = \text{term} \ |\ \text{predicate-symbol} (\text{list of terms}) \\
+&\text{term} : \text{identifier} \ |\ \text{function-symbol} (\text{list of terms})
+\end{aligned}
+$$
+
+我们通常用大写字母表示未解释函数，并用上标“UF”表示 EUF 公式。
+
+```ad-note 
+**附注：逻辑视角**
+要从逻辑的角度解释未解释函数的含义，我们必须回到理论的概念，这在 1.4 节中解释过。回想一下公理集 (1.35)，在本章中我们指的是无量词的部分。
+
+只需要一个额外的公理（实际上是一个公理模式）就可以将等式逻辑扩展到 EUF。对于每个 $n$ 元函数符号，$n > 0$：
+
+$$
+\begin{aligned}
+\forall t_1, \ldots, t_n, t'_1, \ldots, t'_n. \land \\
+i \ t_i = t'_i \Rightarrow F(t_1, \ldots, t_n) = F(t'_1, \ldots, t'_n) \ \text{(一致性)} \ , 
+\end{}
+$$
+
+其中 $t_1, \ldots, t_n, t'_1, \ldots, t'_n$ 是新变量。对于未解释谓词，也可以定义类似的公理。
+
+因此，在函数符号被解释的理论中，有公理定义它们的语义——我们希望它们的含义。在未解释函数的理论中，满足解释的唯一限制是功能一致性所施加的限制，即一致性规则施加的限制。
+```
+
