@@ -261,7 +261,7 @@ DPLL(T)方法有许多改进和变体。例如，可以在部分赋值时调用�
 
 理论传播的另一种优化涉及Deduction发现的信息如何传播到求解器的布尔部分。目前为止，我们要求Deduction返回的子句 $t$ 是T有效的。例如，如果 $\alpha$ 使得 $T^\wedge h(\alpha)$ 隐含一个文字 $\text{lit}$，则
 
-$$t := (\text{lit} \vee \neg T^\wedge h(\alpha))$$
+$$t := (\text{lit} \vee \neg \hat{Th}(\alpha))$$
 
 然而，Nieuwenhuis、Oliveras和Tinelli得出结论，这是一种低效的方法 。他们对各种基准的实验表明，平均不到0.5%的这些子句会被再次使用，它们会增加处理负担。他们建议了一个更好的替代方案，即Deduction返回一个隐含赋值的列表（在这种情况下包含 $e(\text{lit})$），然后由SAT求解器执行这些赋值。
 
