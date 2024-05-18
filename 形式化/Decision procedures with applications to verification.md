@@ -461,4 +461,9 @@ $in0_a=in0_b\wedge\varphi_a\wedge\varphi_b\implies out2_a=out0_b\mathrm{~.}$
 
 由于乘法计算的困难性，我们可以使用未解释函数来帮助我们证明程序等价，因此我们可以将$\varphi _a$转化为$\varphi ^{UF}_a$，$\varphi _b$转化为$\varphi ^{UF}_b$
 ![image.png](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518132841.png)
-为了
+让我们把例子变得更具有挑战性。考虑下面两个程序，输入是一个指向列表的指针：
+![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518133557.png)
+![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518133610.png)
+
+此时，只确保输入是一样的是不够的，因为影响两个程序输出的不是绝对地址，而是这些地址上的数据。因此，我们需要强制两个程序读取的、在进入函数时根植于 "in "的数据在同构位置上必须是相同的。例如，两个程序都会读取 $in \rightarrow n \rightarrow data$的值，因此两边的值应该相同。我们使用*未解释函数*来执行这一条件。在这种情况下，我们需要两个这样的函数，分别称为 list_n 和 list_data，与 list 中的两个字段相对应。
+![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518134214.png)
