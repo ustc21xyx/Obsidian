@@ -466,4 +466,13 @@ $in0_a=in0_b\wedge\varphi_a\wedge\varphi_b\implies out2_a=out0_b\mathrm{~.}$
 ![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518133610.png)
 
 此时，只确保输入是一样的是不够的，因为影响两个程序输出的不是绝对地址，而是这些地址上的数据。因此，我们需要强制两个程序读取的、在进入函数时根植于 "in "的数据在同构位置上必须是相同的。例如，两个程序都会读取 $in \rightarrow n \rightarrow data$的值，因此两边的值应该相同。我们使用*未解释函数*来执行这一条件。在这种情况下，我们需要两个这样的函数，分别称为 list_n 和 list_data，与 list 中的两个字段相对应。
+
 ![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518134214.png)
+
+顺便提一下，我们还有其他方法来证明这两个程序的等价性。在这种情况下，替换就足够了：只需将 out2 a 替换为 out1 a∗in，out1 a 替换为 out0 a∗in，out0 a 替换为 in ϕ a，我们就能自动证明（4.4），因为我们得到的表达式在语法上是相等的。然而，在许多情况下，这种替换并不有效，因为它会使公式的大小呈指数增长。此外，仅靠替换也可能不足以证明等价性。例如，请看 power3 con 和 power3 con new 这两个函数：
+
+![image.png](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518134954.png)
+通过替换，我们获得两个表达式：
+$out_a=con?\left((con?in*in:in)*in\right):(con?in*in:in)$
+和
+$out_b=con?\mathrm{~}(in*in)*in:in\mathrm{~},$
