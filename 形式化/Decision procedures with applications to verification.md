@@ -443,5 +443,16 @@ $\models\varphi^{\mathrm{UF}}\Longrightarrow\models\varphi\mathrm{~.}$
 
 ### 4.2.2 示例：证明程序等价
 
-证明程序等价，即证明对于相同的input，返回相同的output
+证明程序等价，即证明对于相同的input，返回相同的output。
 
+![image.png](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518131350.png)
+
+一般来说，证明程序等价是不可决策的，即不存在可靠且完备的方式证明这样的等价性。不过在这个例子里，等价性是可以被决策的。一个关于这些程序的重要观察是，它们只有有界循环，因此计算它们的输入输出关系是可能的。可以通过如下方式计算它们的关系：
+1. 删除变量声明和返回语句
+2. 展开for循环
+3. 使用新辅助变量替换每个赋值的左侧变量
+4. 无论在何处读取变量（在表达式中被引用），都要将其替换为上次分配给它的辅助变量。
+5. 连接所有程序语句。
+6. 
+这些操作最终会产生两个公式$\varphi _a$和$\varphi _b$,如下图所示：
+![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518132151.png)
