@@ -453,6 +453,12 @@ $\models\varphi^{\mathrm{UF}}\Longrightarrow\models\varphi\mathrm{~.}$
 3. 使用新辅助变量替换每个赋值的左侧变量
 4. 无论在何处读取变量（在表达式中被引用），都要将其替换为上次分配给它的辅助变量。
 5. 连接所有程序语句。
-6. 
+
 这些操作最终会产生两个公式$\varphi _a$和$\varphi _b$,如下图所示：
 ![](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518132151.png)
+证明两个程序I/O等价，等价于证明下面公式的有效性：
+$in0_a=in0_b\wedge\varphi_a\wedge\varphi_b\implies out2_a=out0_b\mathrm{~.}$
+
+由于乘法计算的困难性，我们可以使用未解释函数来帮助我们证明程序等价，因此我们可以将$\varphi _a$转化为$\varphi ^{UF}_a$，$\varphi _b$转化为$\varphi ^{UF}_b$
+![image.png](https://raw.githubusercontent.com/ustc21xyx/picture-bed/main/20240518132841.png)
+为了
