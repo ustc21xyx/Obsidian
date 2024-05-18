@@ -442,3 +442,6 @@ $\models\varphi^{\mathrm{UF}}\Longrightarrow\models\varphi\mathrm{~.}$
 
 
 ### 4.2.2 示例：证明程序等价
+
+证明程序等价，即证明对于相同的input，返回相同的output
+
