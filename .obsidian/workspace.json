@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10f380fc68b5f1c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/形式化/第6次作业.md",
+                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/形式化/第6次作业.md",
+                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/形式化/第6次作业.md"
+                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md"
               }
             }
           },
@@ -174,10 +185,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b08e623614388ba6",
+  "active": "10f380fc68b5f1c4",
   "lastOpenFiles": [
-    "形式化/Decision procedures with applications to verification.md",
     "作业/形式化/第6次作业.md",
+    "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
+    "未命名.canvas",
+    "形式化/Decision procedures with applications to verification.md",
     "link_to_image.md",
     "形式化/Word Level Model Checking - Avoiding the Pentium FDIV Error.md",
     "形式化/Liveness Verification of Stateful Network Functions.md",
@@ -210,7 +223,6 @@
     "1713893722.714961.png",
     "1713893726.814971.png",
     "PB21081577_徐云翔_hw2.pdf",
-    "NuSMV.md",
     "文本表征第二次实验.pdf",
     "实验笔记/文本表征",
     "论文/Hybrid Decision Diagram_Overcoming the Limitation of MTBDDs and BMDs.pdf",
@@ -221,7 +233,6 @@
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
     "杂/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
-    "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
-    "未命名.canvas"
+    "杂/TIPS for Blue Topaz/Attachemnt/obsidian_image.png"
   ]
 }
