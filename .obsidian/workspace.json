@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
+                "file": "作业/形式化/第6次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
+                "file": "作业/形式化/第6次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md"
+                "file": "作业/形式化/第6次作业.md"
               }
             }
           },
@@ -185,10 +184,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10f380fc68b5f1c4",
+  "active": "b08e623614388ba6",
   "lastOpenFiles": [
-    "作业/形式化/第6次作业.md",
     "Excalidraw/Drawing 2024-05-23 22.03.42.excalidraw.md",
+    "作业/形式化/第6次作业.md",
     "未命名.canvas",
     "形式化/Decision procedures with applications to verification.md",
     "link_to_image.md",
